@@ -10,8 +10,11 @@ Proposals:
 Historic background / precedents:
 - The White Paper describes a [linear currency issuance rate](https://github.com/ethereum/wiki/wiki/White-Paper#currency-and-issuance). 
 
+Articles:
+- [Harry Hodler and April Fool. Thoughts on EIP960.](https://medium.com/@o0ragman0o/harry-hodler-and-april-fool-162fb41a1e7c)
+
 reddit discussions: 
-- ["Let's talk about the projected coin supply over the coming years"](https://np.reddit.com/r/ethereum/comments/5izcf5/lets_talk_about_the_projected_coin_supply_over/dbc66rd/)
+- [Let's talk about the projected coin supply over the coming years](https://np.reddit.com/r/ethereum/comments/5izcf5/lets_talk_about_the_projected_coin_supply_over/dbc66rd/)
 
 ethresear.ch discussions: 
-- ["Possible outcomes from altering the ether supply growth rate"](https://ethresear.ch/t/possible-outcomes-from-altering-the-ether-supply-growth-rate/1647)
+- [Possible outcomes from altering the ether supply growth rate](https://ethresear.ch/t/possible-outcomes-from-altering-the-ether-supply-growth-rate/1647)
