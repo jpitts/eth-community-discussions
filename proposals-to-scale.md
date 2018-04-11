@@ -12,7 +12,9 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 - [collations in sharding](https://docs.mongodb.com/manual/sharding/#collations-in-sharding)
 - [shardCollection command](https://docs.mongodb.com/manual/reference/command/shardCollection/)
 
-## Horizontal Partitioning: "Sharding", "Raiden", "PERUN"
+---
+
+## Horizontal Partitioning: "Raiden", "Sharding", "PERUN"
 
 - [Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
 
@@ -29,7 +31,10 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 ### Virtual Payment Channels
 
 - [PERUN: Virtual Payment Hubs
-over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF) & [Foundations of State Channel Networks](https://eprint.iacr.org/2018/320.pdf) (PDF)
+over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
+- [Foundations of State Channel Networks](https://eprint.iacr.org/2018/320.pdf) (PDF)
+
+---
 
 ## Vertical Partitioning: "Plasma", "Truebit"
 
