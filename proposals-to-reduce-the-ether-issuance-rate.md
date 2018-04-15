@@ -15,7 +15,7 @@ Data
 - [Daily rewards chart](https://etherscan.io/chart/ethersupply) - depicts new ether supply
 
 Articles:
-- [Against Vitalik’s fixed supply EIP (EIP 960)][https://medium.com/@Vlad_Zamfir/against-vitaliks-fixed-supply-eip-eip-960-18e182a7e5bd] by Vlad Zamfir
+- [Against Vitalik’s fixed supply EIP (EIP 960)](https://medium.com/@Vlad_Zamfir/against-vitaliks-fixed-supply-eip-eip-960-18e182a7e5bd) by Vlad Zamfir
 - [Harry Hodler and April Fool. Thoughts on EIP960.](https://medium.com/@o0ragman0o/harry-hodler-and-april-fool-162fb41a1e7c)
 
 ethresear.ch discussions: 
