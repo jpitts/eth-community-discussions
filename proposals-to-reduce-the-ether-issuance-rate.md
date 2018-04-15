@@ -9,12 +9,13 @@ Proposals:
 
 Historic background / precedents:
 - The White Paper describes a [linear currency issuance rate](https://github.com/ethereum/wiki/wiki/White-Paper#currency-and-issuance)
-- [On Inflation, Transaction Fees and Cryptocurrency Monetary Policy](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/) - by Vitalik Buterin
+- [On Inflation, Transaction Fees and Cryptocurrency Monetary Policy](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/) by Vitalik Buterin
 
 Data
 - [Daily rewards chart](https://etherscan.io/chart/ethersupply) - depicts new ether supply
 
 Articles:
+- [Against Vitalik’s fixed supply EIP (EIP 960)][https://medium.com/@Vlad_Zamfir/against-vitaliks-fixed-supply-eip-eip-960-18e182a7e5bd] by Vlad Zamfir
 - [Harry Hodler and April Fool. Thoughts on EIP960.](https://medium.com/@o0ragman0o/harry-hodler-and-april-fool-162fb41a1e7c)
 
 ethresear.ch discussions: 
