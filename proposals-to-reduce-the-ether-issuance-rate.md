@@ -9,6 +9,7 @@ Proposals:
 
 Historic background / precedents:
 - The White Paper describes a [linear currency issuance rate](https://github.com/ethereum/wiki/wiki/White-Paper#currency-and-issuance)
+- [On Inflation, Transaction Fees and Cryptocurrency Monetary Policy](https://blog.ethereum.org/2016/07/27/inflation-transaction-fees-cryptocurrency-monetary-policy/) - by Vitalik Buterin
 
 Data
 - [Daily rewards chart](https://etherscan.io/chart/ethersupply) - depicts new ether supply
