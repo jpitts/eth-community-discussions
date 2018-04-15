@@ -22,6 +22,7 @@ ethresear.ch discussions:
 - [Possible outcomes from altering the ether supply growth rate](https://ethresear.ch/t/possible-outcomes-from-altering-the-ether-supply-growth-rate/1647)
 
 reddit discussions: 
+- [Discussion of Vlad Zamfir's "Against" article](https://www.reddit.com/r/ethereum/comments/8cg4s3/vlad_zamfir_against_vitaliks_fixed_supply_eip/)
 - [Disappointed and disillusioned with EIP 960, how it's been received and lack of discussion into the potential effects](https://www.reddit.com/r/ethereum/comments/8adufm/disappointed_and_disillusioned_with_eip_960_how/)
 - [Initial discussion of EIP 960](https://www.reddit.com/r/ethereum/comments/88ourj/meta_cap_total_ether_supply_at_120_million_issue/)
 - [Let's talk about the projected coin supply over the coming years](https://np.reddit.com/r/ethereum/comments/5izcf5/lets_talk_about_the_projected_coin_supply_over/dbc66rd/)
