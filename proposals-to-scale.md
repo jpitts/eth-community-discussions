@@ -3,6 +3,8 @@
 
 Ethereum community proposals to scale, background on scaling in the tech industry, scaling in theory.
 
+[Spreadsheet summary of scaling solutions](https://docs.google.com/spreadsheets/d/1BQ0bK_LhSQvxtvXryVoIcmxeKMuVJCq6oD0aS5_hpC8/edit#gid=0) - organized by the Web3 Foundation
+
 ## Scaling in General: databases / large scale systems
 
 [Why I love databases](https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f) by Jeeyoung Kim
