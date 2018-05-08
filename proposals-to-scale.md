@@ -3,19 +3,21 @@
 
 Ethereum community proposals to scale, background on scaling in the tech industry, scaling in theory.
 
-[Spreadsheet summary of scaling solutions](https://docs.google.com/spreadsheets/d/1BQ0bK_LhSQvxtvXryVoIcmxeKMuVJCq6oD0aS5_hpC8/edit#gid=0) - organized by the Web3 Foundation / ScalingNOW initiative
-
-## Scaling in General: databases / large scale systems
+## Scaling in General
 
 [Why I love databases](https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f) by Jeeyoung Kim
 
 [How sharding works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6) by Jeeyoung Kim
 
+[Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
+
 ---
 
 ## Solutions Available Now
 
-- [Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
+[Spreadsheet summary of scaling solutions](https://docs.google.com/spreadsheets/d/1BQ0bK_LhSQvxtvXryVoIcmxeKMuVJCq6oD0aS5_hpC8/edit#gid=0) - organized by the Web3 Foundation / ScalingNOW initiative
+
+[Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
 
 ### G-Bridge / ScalingNOW
 - [ScalingNOW! Interview 1: Bridge Chains](https://medium.com/giveth/scalingnow-bridge-chains-parity-8c359aca2b01) - with Björn Wagner & Maximilian Krüger from Parity
@@ -33,15 +35,13 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 ---
 
-## Under active R&D
+## Under Active Development
 
-Not ready for use by developers, but getting there.
+Not ready for use in mainnet dapps, but getting close.
 
-[Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
-
-### Plasma Project
-- [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (PDF)
-- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+### POA Network
+- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+- [POA Network overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
 
 ### Thunder
 - [Website](https://www.thundertoken.com/)
@@ -51,6 +51,16 @@ Not ready for use by developers, but getting there.
 ### Truebit
 - [Truebit: A scalable verification solution for blockchains](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) (PDF)
 - [Truebit: the marketplace for verifiable computation](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f) by Sina Habibian
+
+---
+
+## Still in R&D
+
+Still being researched, some proof of concept work.
+
+### Plasma Project
+- [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (PDF)
+- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 
 ### Ethereum Sharding Project
 - [How sharding works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
