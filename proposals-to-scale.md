@@ -35,9 +35,9 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 ---
 
-## Under Active Development
+## Under Development / Testnets
 
-Not ready for use in mainnet dapps, but getting close.
+Not ready for use in mainnet dapps, but getting closer.
 
 ### POA Network
 - [Website](https://poa.network/)
@@ -53,6 +53,11 @@ Not ready for use in mainnet dapps, but getting close.
 - [Website](https://www.thundertoken.com/)
 - [Thunderella paper](https://eprint.iacr.org/2017/913.pdf) by Elaine Shi and Rafael Pass
 - [PAXOS algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
+
+### Polkadot
+- [Website](https://polkadot.network/)
+- [Roadmap](https://polkadot.network/#roadmap)
+- [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
 ### Truebit
 - [Truebit: A scalable verification solution for blockchains](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) (PDF)
