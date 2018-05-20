@@ -40,8 +40,14 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 Not ready for use in mainnet dapps, but getting close.
 
 ### POA Network
-- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+- [Website](https://poa.network/)
 - [POA Network overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
+- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+
+### Cosmos Hub
+- [Website](https://cosmos.network/intro/hub)
+- [Ethermint](https://ethermint.zone/)
+- [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
 
 ### Thunder
 - [Website](https://www.thundertoken.com/)
