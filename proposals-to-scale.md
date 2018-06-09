@@ -77,13 +77,15 @@ Not ready for use in mainnet dapps, but getting closer.
 - [PAXOS algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 
 ### Polkadot
+- [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
 - [Website](https://polkadot.network/)
-- [Roadmap](https://polkadot.network/#roadmap)
+- [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
-### Truebit
+### TrueBit
+- [An Introduction to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
 - [Truebit: A scalable verification solution for blockchains](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) (PDF)
-- [Truebit: the marketplace for verifiable computation](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f) by Sina Habibian
+- [TrueBit: the marketplace for verifiable computation](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f) by Sina Habibian
 
 ---
 
@@ -92,6 +94,7 @@ Not ready for use in mainnet dapps, but getting closer.
 Still being researched, some proof of concept work.
 
 ### Plasma Project
+- [Plasma Explained](https://medium.com/@argongroup/ethereum-plasma-explained-608720d3c60e)
 - [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (PDF)
 - [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 
