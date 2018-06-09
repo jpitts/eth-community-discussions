@@ -11,6 +11,28 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 
+## General Strategies for Scaling the Ethereum Network
+
+Vitalik Buterin [tweet-replied](https://twitter.com/VitalikButerin/status/1005384496311496704):
+
+My view: there are basically 5 scaling strategies:
+1. Many separate chains
+2. Super-big blocks
+3. Incremental improvements that don't change security model (eg. replacing txs + sigs with compressed delta + STARKs)
+4. Layer 2 (channels and plasma)
+5. Sharding
+
+Jamie Pitts [tweet-replied](https://twitter.com/jamiepitts/status/1005441180874653697):
+
+Excellent. Now I will attempt to distill these down to pure strategies:
+1. Bifurcation - separate chains
+2. Vert. partitioning - big blocks, SMR
+3. Optimization w/o changing security model
+4. Horiz. partitioning - algorithmic sharding
+5. Horiz. partitioning - dynamic sharding
+
+Strategies 2-5 can be seen as involving a single chain, even though all chains will eventually interconnect. Strategy 4 with its channels and plasmas and verified offloading may additionally be categorized as bifurcation, though involving far more integration than 1.
+
 ---
 
 ## Solutions Available Now
