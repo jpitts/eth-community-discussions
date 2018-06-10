@@ -11,7 +11,7 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 
-[Scaling Ethereum in 2018](https://www.youtube.com/watch?v=rnkqMSLuPHA)(youtube), a presentation by Lane Rettig
+[Scaling Ethereum in 2018](https://www.youtube.com/watch?v=rnkqMSLuPHA) (video), a presentation by Lane Rettig
 
 ## General Strategies for Scaling the Ethereum Network
 
