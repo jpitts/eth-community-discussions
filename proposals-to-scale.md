@@ -11,6 +11,8 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Making Sense of Ethereum’s Layer 2 Scaling Solutions: State Channels, Plasma, and Truebit](https://medium.com/l4-media/making-sense-of-ethereums-layer-2-scaling-solutions-state-channels-plasma-and-truebit-22cb40dcc2f4)
 
+[Scaling Ethereum in 2018](https://www.youtube.com/watch?v=rnkqMSLuPHA)(youtube), a presentation by Lane Rettig
+
 ## General Strategies for Scaling the Ethereum Network
 
 Vitalik Buterin [tweet-replied](https://twitter.com/VitalikButerin/status/1005384496311496704):
@@ -22,16 +24,19 @@ Vitalik Buterin [tweet-replied](https://twitter.com/VitalikButerin/status/100538
 > 4. Layer 2 (channels and plasma)
 > 5. Sharding
 
-Jamie Pitts [tweet-replied](https://twitter.com/jamiepitts/status/1005441180874653697):
+Jamie Pitts [tweet-replied](https://twitter.com/jamiepitts/status/1005949301502033921):
 
-> Excellent. Now I will attempt to distill these down to pure strategies:
-> 1. Bifurcation - separate chains
+> Basic strategies for scaling Ethereum:
+> 1. Bifurcation - sep. chains
 > 2. Vert. partitioning - big blocks, SMR
-> 3. Optimization w/o changing security model
-> 4. Horiz. partitioning - algorithmic sharding
-> 5. Horiz. partitioning - dynamic sharding
+> 3. Software optimization
+> 4. Network topology optimization
+> 5. Horiz. partitioning - algorithmic sharding
+> 6. Horiz. partitioning - dynamic sharding
 
-Strategies 2-5 can be seen as involving a single chain, even though all chains will eventually interconnect. Strategy 4 with its channels and plasmas and verified offloading may additionally be categorized as bifurcation, though involving far more integration than 1.
+Strategies 2-6 can be seen as involving a single chain, even though all chains will eventually interconnect. Strategy 4 with its channels and plasmas and verified offloading may additionally be categorized as bifurcation, though involving far more integration than 1.
+
+Added #4 due to [a suggestion by @DisruptionJoe](https://twitter.com/DisruptionJoe/status/1005818278382620672).
 
 ---
 
