@@ -15,8 +15,6 @@ Users' pain points:
 
 [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1) by beltran
 
-(jump to the [cheat sheet](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1))
-
 1. (Reading Data) Transparency of Data Provenance
 2. (Writing Data) Transparency of Transactions
 3. (Pushed Data) Transparency of Smart Contract Events
