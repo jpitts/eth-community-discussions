@@ -15,16 +15,16 @@ Users' pain points:
 
 [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1) by beltran
 
-1. (Reading Data) Transparency of Data Provenance
-2. (Writing Data) Transparency of Transactions
-3. (Pushed Data) Transparency of Smart Contract Events
-4. (History) Transparency and Accessibility of user’s interaction History
-5. (Code & Environment) Transparency of Code
-6. Time/Wait Management
-7. Human Readable Hashes formats
-8. Permanent Newbie Mode
-9. Gas Price and Transaction Reversals
-10. Sense of community
+1. (Reading Data) Transparency of Data Provenance  
+2. (Writing Data) Transparency of Transactions  
+3. (Pushed Data) Transparency of Smart Contract Events  
+4. (History) Transparency and Accessibility of user’s interaction History  
+5. (Code & Environment) Transparency of Code  
+6. Time/Wait Management  
+7. Human Readable Hashes formats  
+8. Permanent Newbie Mode  
+9. Gas Price and Transaction Reversals  
+10. Sense of community  
 
 [Designing for Blockchain: Three Ways To Get Started](https://www.ideo.com/blog/designing-for-blockchain-three-ways-to-get-started)- by Tara Tan of IDEO Labs
 
