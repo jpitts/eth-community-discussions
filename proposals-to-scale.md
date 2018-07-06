@@ -13,6 +13,10 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Scaling Ethereum in 2018](https://www.youtube.com/watch?v=rnkqMSLuPHA) (video), a presentation by Lane Rettig
 
+## Special Constraints for Scaling Blockchains
+
+[Naive to tacke distributed systems and incentive mechanism design separately](https://twitter.com/VladZamfir/status/1014882947781087233) tweet by Vlad Zamfir
+
 ## General Strategies for Scaling the Ethereum Network
 
 Vitalik Buterin [tweet-replied](https://twitter.com/VitalikButerin/status/1005384496311496704):
