@@ -78,6 +78,7 @@ Not ready for use in mainnet dapps, but getting closer.
 ### Cosmos Hub
 - [Website](https://cosmos.network/intro/hub)
 - [Ethermint](https://ethermint.zone/)
+- [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
 - [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
 
 ### Thunder
