@@ -13,6 +13,11 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Scaling Ethereum in 2018](https://www.youtube.com/watch?v=rnkqMSLuPHA) (video), a presentation by Lane Rettig
 
+[SoK: Consensus in the Age of Blockchains](https://arxiv.org/pdf/1711.03936.pdf) (PDF)
+
+> The inherent complexity of consensus protocols and their rapid and dramatic evolution makes it hard to contextualize
+the design landscape. We address this challenge by conducting a systematic and comprehensive study of blockchain consensus protocols.
+
 ## Special Constraints for Scaling Blockchains
 
 [Naive to tacke distributed systems and incentive mechanism design separately](https://twitter.com/VladZamfir/status/1014882947781087233) tweet by Vlad Zamfir
