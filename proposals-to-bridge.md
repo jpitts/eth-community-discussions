@@ -6,7 +6,7 @@ This document outlines solutions and discussions about bridging.
 
 ## Grid+ Relay Networks
 
-- [Efficiently Bridging EVM Blockchains](https://blog.gridplus.io/efficiently-bridging-evm-blockchains-8421504e9ced) - General overview, but discusses designs used in Relay Networks V2
+- [Efficiently Bridging EVM Blockchains](https://blog.gridplus.io/efficiently-bridging-evm-blockchains-8421504e9ced) - discusses designs used in Relay Networks V2
 
 ## dogethereum
 
