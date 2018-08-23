@@ -4,6 +4,16 @@ This document outlines solutions and discussions about bridging.
 
 ---
 
+## Grid+ Relay Networks
+
+- [Efficiently Bridging EVM Blockchains](https://blog.gridplus.io/efficiently-bridging-evm-blockchains-8421504e9ced) - General overview, but discusses designs used in Relay Networks V2
+
+## dogethereum
+
+- [Using Superblocks to Bridge Dogecoin to Ethereum](https://github.com/dogethereum/docs/blob/master/superblocks/superblocks-white-paper.pdf)
+- [dogethereum documentation](https://github.com/dogethereum/docs)
+
+
 ## Polkadot
 
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
