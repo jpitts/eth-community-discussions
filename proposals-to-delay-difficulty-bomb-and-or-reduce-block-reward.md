@@ -1,9 +1,9 @@
 # Proposals to delay the difficulty bomb and/or reduce the block reward
 
-Three competing EIPs to delay the difficulty bomb and/or reduce the block reward:
-a. [EIP-858](https://github.com/ethereum/EIPs/pull/858) - Reduce block reward to 1 ETH per block.
-b. [EIP-1227](https://github.com/ethereum/EIPs/pull/1235) - Delay bomb and change rewards to 5 ETH.
-c. [EIP-1234](https://github.com/ethereum/EIPs/pull/1234) - Delay bomb and change rewards to 2 ETH.
+Three competing EIPs to delay the difficulty bomb and/or reduce the block reward: 
+- [EIP-858](https://github.com/ethereum/EIPs/pull/858) - Reduce block reward to 1 ETH per block.
+- [EIP-1227](https://github.com/ethereum/EIPs/pull/1235) - Delay bomb and change rewards to 5 ETH.
+- [EIP-1234](https://github.com/ethereum/EIPs/pull/1234) - Delay bomb and change rewards to 2 ETH.
 
 Discussed at the Core Devs Meeting #45 on Friday 24 August 2018 at 14:00 UTC
 - [#45 Agenda](https://github.com/ethereum/pm/issues/54)
@@ -32,6 +32,7 @@ Discussed at the Core Devs Meeting #45 on Friday 24 August 2018 at 14:00 UTC
 ## FEM Discussions
 - [FEM Forum: EIP-1234 vs EIP-1227: Constantinople Difficulty Bomb & Block reward](https://ethereum-magicians.org/t/eip-1234-vs-eip-1227-constantinople-difficulty-bomb-block-reward/807/)
 - [FEM Forum: Final Request From the GPU Mining Community](https://ethereum-magicians.org/t/final-request-from-the-gpu-mining-community/1050)
+- [Final Request From the GPU Mining Community](https://ethereum-magicians.org/t/final-request-from-the-gpu-mining-community/1050)
 
 ## Related EIPs / Discussions
 - [EIP 1295 Presentation](https://drive.google.com/file/d/15n7Vur8wwlfDK6ZXwohUc95rXOUIXo7j/view)
