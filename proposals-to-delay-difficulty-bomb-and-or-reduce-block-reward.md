@@ -14,8 +14,9 @@ Discussed at the Core Devs Meeting #45 on Friday 24 August 2018 at 14:00 UTC
 ## Post-Meeting Articles / Analyses
 - [Ethereum Meeting Leaves Open Questions Ahead of October Upgrade](https://www.coindesk.com/ethereum-call-leaves-pressing-questions-open-ahead-of-october-upgrade/) - CoinDesk article
 - [Comments in the CoreDevs #45 Agenda](https://github.com/ethereum/pm/issues/54)
-- [reddit discussion of the meeting](https://www.reddit.com/r/ethereum/comments/99s37d/live_ethereum_core_devs_meeting_45_starts_at_10am/)
-- [another reddit discussion of the meeting](https://www.reddit.com/r/ethtrader/comments/99bmsk/developer_meeting_this_friday_to_discuss_possible/)
+- [/r/ethereum discussion of the meeting](https://www.reddit.com/r/ethereum/comments/99s37d/live_ethereum_core_devs_meeting_45_starts_at_10am/)
+- [another /r/ethereum discussion of the meeting](https://www.reddit.com/r/ethereum/comments/99ylze/eth_issuance_thoughts_on_the_eth_core_devs/)
+- [/r/ethtrader discussion of the meeting](https://www.reddit.com/r/ethtrader/comments/99bmsk/developer_meeting_this_friday_to_discuss_possible/)
 
 ## Background Articles / Analyses
 - [A Case for Ethereum Block Reward Reduction to 2 ETH in Constantinople (EIP-1234)](https://medium.com/@eric.conner/a-case-for-ethereum-block-reward-reduction-in-constantinople-eip-1234-25732431fc77)
