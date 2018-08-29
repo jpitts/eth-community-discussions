@@ -12,6 +12,7 @@ Jim can use his private key to sign some data and then send this signed data t
 - [The magic of executable signed messages to login and do actions](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351) - post to the Magicians' Forum by [alexvandesande](https://github.com/alexvandesande)
 - [ERC-1077](https://github.com/ethereum/EIPs/pull/1077) - Executable Signed Messages refunded by the contract
 - [ERC-1078](https://github.com/ethereum/EIPs/pull/1078) - Log in / signup using ENS subdomains
+- [Universal Logins for Ethereum - UX Unconf Toronto 2018](https://www.youtube.com/watch?v=qF2lhJzngto&feature=youtu.be) - youtube video
 
 Allowing users to sign messages to show intent of execution, but allowing a third party relayer to execute them is an emerging pattern being used in many projects. 
 
@@ -22,8 +23,14 @@ Allowing users to sign messages to show intent of execution, but allowing a thir
 Aims to provide all users with a convenient, yet secure way to manage their funds and interact with decentralized applications on Ethereum.
 
 ## Austin Griffith / metatx.io
-- [Bouncer Proxy](https://github.com/austintgriffith/bouncer-proxy)
+- [Bouncer Proxy](https://github.com/austintgriffith/bouncer-proxy) - GitHub Project
 - [Meta transactions on Ethereum via Identity Proxy Contract](https://www.youtube.com/watch?v=6r3SqCcEVU4&feature=youtu.be) - youtube video
 
 Sandbox for experimenting with etherless meta transactions. The heart of the trick is to sign and recover transactions using Ethereum key pairs both on and off chain.
+
+## HatchCrypto unilogin
+- [unilogin](https://github.com/HatchCrypto/unilogin) - GitHub project
+
+This is a React - Web3 - Solidity Proof of Concept signup / login design pattern with a minimal Ethereum native scheme that doesn't require passwords, backing up private keys nor typing seed phrases. It also allows for a user to sign messages to show intent of execution along similar guidelines.
+
 
