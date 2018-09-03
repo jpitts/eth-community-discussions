@@ -1,5 +1,23 @@
 # User Experience Resources
 
+[Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97)
+
+- Key management - recovery
+- Key management - logins into wallets
+- crypto on-ramps: Fiat>Crypto & crypto only on-ramps
+- TX - understanding TX (content and consecuences)
+- TX - understanding gas
+- TX - pending states during mining 
+- understanding - privacy 
+- understanding - blockchain values 
+  - (mental shift: teaching people that this is a trustworthy & unstoppable computer. It is also slow and expensive)
+- understanding - distinction between coins and tokens 
+- understanding - that coinbase isn't a wallet that can interact with dapps.
+- Trusting you don't make mistakes in writing addresses 
+- understanding - new mental models and mechanisms
+- lack of dev tools for consistent UX across dapps
+- understanding - the blockchain lingo
+
 [The Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) by Anna Rose
 
 Qualitative findings from interviews after EDCON 2018. 
