@@ -1,6 +1,6 @@
 # User Experience Resources
 
-[Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97)
+[Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97) - conflux.network
 
 - Key management - recovery
 - Key management - logins into wallets
