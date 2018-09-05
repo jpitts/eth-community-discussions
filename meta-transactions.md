@@ -24,6 +24,7 @@ Aims to provide all users with a convenient, yet secure way to manage their fund
 
 ## Austin Griffith / metatx.io
 - [Bouncer Proxy](https://github.com/austintgriffith/bouncer-proxy) - GitHub Project
+- [Delegated Execution Subscriptions](https://github.com/austintgriffith/delegated-execution-subscriptions) - combines Bouncer Proxy w/ Token Subscriptions
 - [Meta transactions on Ethereum via Identity Proxy Contract](https://www.youtube.com/watch?v=6r3SqCcEVU4&feature=youtu.be) - youtube video
 
 Sandbox for experimenting with etherless meta transactions. The heart of the trick is to sign and recover transactions using Ethereum key pairs both on and off chain.
