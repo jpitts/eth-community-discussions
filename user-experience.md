@@ -1,6 +1,6 @@
 # User Experience Resources
 
-[Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97) - conflux.network
+## [Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97) - conflux.network
 
 - Key management - recovery
 - Key management - logins into wallets
@@ -18,7 +18,7 @@
 - lack of dev tools for consistent UX across dapps
 - understanding - the blockchain lingo
 
-[The Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) by Anna Rose
+## [The Challenge of UX in Ethereum](https://medium.com/ecf-review/challenge-of-ux-in-ethereum-122e1a33688d) by Anna Rose
 
 Qualitative findings from interviews after EDCON 2018. 
 
@@ -31,7 +31,7 @@ Users' pain points:
 6. Not Communicating Clearly What is Happening
 7. The Lack of UX Designers
 
-[Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1) by beltran
+## [Web3 Design Principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1) by beltran
 
 1. (Reading Data) Transparency of Data Provenance  
 2. (Writing Data) Transparency of Transactions  
@@ -44,7 +44,19 @@ Users' pain points:
 9. Gas Price and Transaction Reversals  
 10. Sense of community  
 
-[Designing for Blockchain: Three Ways To Get Started](https://www.ideo.com/blog/designing-for-blockchain-three-ways-to-get-started)- by Tara Tan of IDEO Labs
+## [6 principles for designing blockchain apps for non-technical users](https://hackernoon.com/6-principles-for-designing-dapps-for-regular-people-from-a-consensus-18-hackathon-winner-134cdb881cc1) by Kevin Kim
+
+1. Use user personas to frame the problem around people, not blockchain
+2. Make complex data entry as easy as possible
+- Collect only the minimum viable data
+- Design the flow based on the context
+- Show explicit progress to keep users engaged
+3. Abstract away the blockchain as much as possible
+4. Be transparent when dealing with irreversible actions
+5. Don’t hold your users up while their data posts to the blockchain
+6. Remove blockchain from your name and branding
+
+## [Designing for Blockchain: Three Ways To Get Started](https://www.ideo.com/blog/designing-for-blockchain-three-ways-to-get-started)- by Tara Tan of IDEO Labs
 
 1. Designing for ownership
 2. Designing transparency in network transactions
