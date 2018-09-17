@@ -24,28 +24,15 @@ the design landscape. We address this challenge by conducting a systematic and c
 
 ## General Strategies for Scaling the Ethereum Network
 
-Vitalik Buterin [tweet-replied](https://twitter.com/VitalikButerin/status/1005384496311496704):
+0. Network Bifurcation — separate blockchains (strategies 1–5 directly involve the Ethereum blockchain)
 
-> My view: there are basically 5 scaling strategies:
-> 1. Many separate chains
-> 2. Super-big blocks
-> 3. Incremental improvements that don't change security model (eg. replacing txs + sigs with compressed delta + STARKs)
-> 4. Layer 2 (channels and plasma)
-> 5. Sharding
+1. Vertical partitioning — endpoints for txn queues, relays,“JSON-RPC APIs”
+2. Software optimization — bigger block sizes
+3. Network topology optimization
+4. Horizontal partitioning via algorithmic sharding — plasmas, state channels, “Layer 2”
+5. Horizontal partitioning via dynamic sharding — “Ethereum Sharding”
 
-Jamie Pitts [tweet-replied](https://twitter.com/jamiepitts/status/1005949301502033921):
-
-> Basic strategies for scaling Ethereum:
-> 1. Bifurcation - sep. chains
-> 2. Vert. partitioning - big blocks, SMR
-> 3. Software optimization
-> 4. Network topology optimization
-> 5. Horiz. partitioning - algorithmic sharding
-> 6. Horiz. partitioning - dynamic sharding
-
-Strategies 2-6 can be seen as involving a single chain, even though all chains will eventually interconnect. Strategy 4 with its channels and plasmas and verified offloading may additionally be categorized as bifurcation, though involving far more integration than 1.
-
-Added #4 due to [a suggestion by @DisruptionJoe](https://twitter.com/DisruptionJoe/status/1005818278382620672).
+From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to-scale-ethereum-a936ed79b31) by Jamie Pitts
 
 ---
 
@@ -55,15 +42,21 @@ Added #4 due to [a suggestion by @DisruptionJoe](https://twitter.com/DisruptionJ
 
 [Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
 
-### G-Bridge / ScalingNOW
-- [ScalingNOW! Interview 1: Bridge Chains](https://medium.com/giveth/scalingnow-bridge-chains-parity-8c359aca2b01) - with Björn Wagner & Maximilian Krüger from Parity
-- [SCLabs ERC-20 -> ERC-777 token bridge](https://github.com/swarmcity/SCLabs-erc20-bridge)
-- [G-Bridge Documentation](https://hackmd.io/s/rJDPfbZUG)
-
-### Raiden developer preview
+### Raiden Network
 - [Description of the developer preview](https://raiden-network.readthedocs.io/en/stable/what_is_the_dev_preview.html)
 - [Overview](https://raiden.network/101.html)
 - [FAQ](https://raiden.network/faq.html)
+
+## Matic Network
+- Kovan testnet
+- [Matic Network](https://matic.network/)
+- [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
+
+## Connext Network
+- One deployement on mainnet, this is a modified Perun
+- [Connext Network](https://connext.network/)
+- [Overview of SpankChain live deployment](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
+- [Technical Update 7/27/2018](https://medium.com/connext/connext-v0-4-developer-update-667850e9cdd3)
 
 ### Infura web API
 - [Why Infura is the Secret Weapon of Ethereum Infrastructure](https://media.consensys.net/why-infura-is-the-secret-weapon-of-ethereum-infrastructure-af6fc7c77052)
@@ -97,11 +90,6 @@ Not ready for use in mainnet dapps, but getting closer.
 - [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
-### TrueBit
-- [An Introduction to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
-- [Truebit: A scalable verification solution for blockchains](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) (PDF)
-- [TrueBit: the marketplace for verifiable computation](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f) by Sina Habibian
-
 ---
 
 ## Still in R&D
@@ -124,11 +112,29 @@ Still being researched, some proof of concept work.
 
 ## Research Work
 
-### Virtual Payment Channels
+### "snaps" - dapps with SNARKS
+- [barryWhiteHat's roll_up](https://github.com/barryWhiteHat/roll_up)
+- [Plasma snapp - fully verified plasma chain](https://ethresear.ch/t/plasma-snapp-fully-verified-plasma-chain/3391)
 
+### Virtual Payment Channels
+- [Perun Network](https://www.perun.network/)
 - [PERUN: Virtual Payment Hubs
 over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 - [Foundations of State Channel Networks](https://eprint.iacr.org/2018/320.pdf) (PDF)
+
+---
+
+## What's Happening?
+
+### TrueBit
+- [An Introduction to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
+- [Truebit: A scalable verification solution for blockchains](https://people.cs.uchicago.edu/~teutsch/papers/truebit.pdf) (PDF)
+- [TrueBit: the marketplace for verifiable computation](https://medium.com/truebit/truebit-the-marketplace-for-verifiable-computation-f51d1726798f) by Sina Habibian
+
+### G-Bridge / ScalingNOW
+- [ScalingNOW! Interview 1: Bridge Chains](https://medium.com/giveth/scalingnow-bridge-chains-parity-8c359aca2b01) - with Björn Wagner & Maximilian Krüger from Parity
+- [SCLabs ERC-20 -> ERC-777 token bridge](https://github.com/swarmcity/SCLabs-erc20-bridge)
+- [G-Bridge Documentation](https://hackmd.io/s/rJDPfbZUG)
 
 
 
