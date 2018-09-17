@@ -19,9 +19,6 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [SoK: Consensus in the Age of Blockchains](https://arxiv.org/pdf/1711.03936.pdf) (PDF)
 
-> The inherent complexity of consensus protocols and their rapid and dramatic evolution makes it hard to contextualize
-the design landscape. We address this challenge by conducting a systematic and comprehensive study of blockchain consensus protocols.
-
 ## General Strategies for Scaling the Ethereum Network
 
 0. Network Bifurcation — separate blockchains (strategies 1–5 directly involve the Ethereum blockchain)
@@ -47,12 +44,7 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Overview](https://raiden.network/101.html)
 - [FAQ](https://raiden.network/faq.html)
 
-## Matic Network
-- Kovan testnet
-- [Matic Network](https://matic.network/)
-- [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
-
-## Connext Network
+### Connext Network
 - One deployement on mainnet, this is a modified Perun
 - [Connext Network](https://connext.network/)
 - [Overview of SpankChain live deployment](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
@@ -69,9 +61,19 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 Not ready for use in mainnet dapps, but getting closer.
 
 ### POA Network
-- [Website](https://poa.network/)
-- [POA Network overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
+- [POA Network](https://poa.network/)
+- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
 - [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+
+### Matic Network
+- Kovan testnet
+- [Matic Network](https://matic.network/)
+- [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
+
+### Counterfactual
+- [Counterfactual Network](https://counterfactual.com/)
+- [Overview](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
+- [Introducing the Force-Move Games Framework](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f) - collaboration with Magmo
 
 ### Cosmos Hub
 - [Website](https://cosmos.network/intro/hub)
