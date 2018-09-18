@@ -16,17 +16,30 @@ This document outlines solutions and discussions about bridging.
 
 ## Polkadot
 
+> A fully decentralized "federation" of chains, allowing both open and closed networks to have trust-free access to each other, for exchanging value and for processing data. A "relay chain" coordinates consensus and transaction delivery between member chains. Blockchains are bridged to the Polkadot Nework. This is accomplished with "parachains", which are parallelizable, highly specialized blockchains implemented for each Polkadot participant. Parachains attach to the security provided by the relay chain rather than providing their own.
+
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
 - [Website](https://polkadot.network/)
 - [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
+- [Overview of "parachain"](https://medium.com/polkadot-network/polkadot-the-parachain-3808040a769a)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
 ## Cosmos Hub
+
+> The Cosmos hub connects to zones via IBC (inter-blockchain communication) protocol) and keeps a record of the total number of tokens in each zone. Because all inter-zone transfers go through the Cosmos Hub, you can send tokens from one zone to another without the need for a liquid exchange or trusted third party between zones.
 
 - [Website](https://cosmos.network/intro/hub)
 - [Ethermint](https://ethermint.zone/)
 - [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
 - [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
+
+## AltCoin atomic swapping
+
+DEX in which "developers can lock ether tokens in an Ethereum smart contract that specifies the funds will only be sent if an equal amount of bitcoin is sent to a bitcoin address during a specific time window".
+
+- [Altcoin](https://altcoin.io/)
+- [GitHub repo of "ethatomicswap"](https://github.com/AltCoinExchange/ethatomicswap)
+- [Update about atomic swals and plasma](https://blog.altcoin.io/august-update-mobile-ux-atomic-swaps-and-plasma-dex-v2-94680ff9db30) - 9/18/2018 
 
 ## Decred atomic swapping
 
