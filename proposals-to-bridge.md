@@ -13,6 +13,15 @@ This document outlines solutions and discussions about bridging.
 - [Using Superblocks to Bridge Dogecoin to Ethereum](https://github.com/dogethereum/docs/blob/master/superblocks/superblocks-white-paper.pdf)
 - [dogethereum documentation](https://github.com/dogethereum/docs)
 
+## BTC Relay
+
+> Ethereum contract for Bitcoin SPV. The main functionality it provides are:
+> - verification of a Bitcoin transaction
+> - optionally relay the Bitcoin transaction to any Ethereum contract storage of Bitcoin block headers
+> - inspection of the latest Bitcoin block header stored in the contract
+
+- ["btcrelay" GitHub Repo](https://github.com/ethereum/btcrelay)
+- [etherscan.io page for 0x41f274c0023f83391de4e0733c609df5a124c3d4](https://etherscan.io/address/0x41f274c0023f83391de4e0733c609df5a124c3d4)
 
 ## Polkadot
 
@@ -38,7 +47,7 @@ This document outlines solutions and discussions about bridging.
 DEX in which "developers can lock ether tokens in an Ethereum smart contract that specifies the funds will only be sent if an equal amount of bitcoin is sent to a bitcoin address during a specific time window".
 
 - [Altcoin](https://altcoin.io/)
-- [GitHub repo of "ethatomicswap"](https://github.com/AltCoinExchange/ethatomicswap)
+- ["ethatomicswap" GitHub repo](https://github.com/AltCoinExchange/ethatomicswap)
 - [Update about atomic swals and plasma](https://blog.altcoin.io/august-update-mobile-ux-atomic-swaps-and-plasma-dex-v2-94680ff9db30) - 9/18/2018 
 
 ## Decred atomic swapping
