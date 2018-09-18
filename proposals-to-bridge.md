@@ -15,17 +15,17 @@ This document outlines solutions and discussions about bridging.
 
 ## BTC Relay
 
-> Ethereum contract for Bitcoin SPV. The main functionality it provides are:
-> - verification of a Bitcoin transaction
-> - optionally relay the Bitcoin transaction to any Ethereum contract storage of Bitcoin block headers
-> - inspection of the latest Bitcoin block header stored in the contract
+Ethereum contract for Bitcoin SPV. The main functionality it provides are:
+- verification of a Bitcoin transaction
+- optionally relay the Bitcoin transaction to any Ethereum contract storage of Bitcoin block headers
+- inspection of the latest Bitcoin block header stored in the contract
 
 - ["btcrelay" GitHub Repo](https://github.com/ethereum/btcrelay)
 - [etherscan.io page for 0x41f274c0023f83391de4e0733c609df5a124c3d4](https://etherscan.io/address/0x41f274c0023f83391de4e0733c609df5a124c3d4)
 
 ## Polkadot
 
-> A fully decentralized "federation" of chains, allowing both open and closed networks to have trust-free access to each other, for exchanging value and for processing data. A "relay chain" coordinates consensus and transaction delivery between member chains. Blockchains are bridged to the Polkadot Nework. This is accomplished with "parachains", which are parallelizable, highly specialized blockchains implemented for each Polkadot participant. Parachains attach to the security provided by the relay chain rather than providing their own.
+A fully decentralized "federation" of chains, allowing both open and closed networks to have trust-free access to each other, for exchanging value and for processing data. A "relay chain" coordinates consensus and transaction delivery between member chains. Blockchains are bridged to the Polkadot Nework. This is accomplished with "parachains", which are parallelizable, highly specialized blockchains implemented for each Polkadot participant. Parachains attach to the security provided by the relay chain rather than providing their own.
 
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
 - [Website](https://polkadot.network/)
@@ -35,7 +35,7 @@ This document outlines solutions and discussions about bridging.
 
 ## Cosmos Hub
 
-> The Cosmos hub connects to zones via IBC (inter-blockchain communication) protocol) and keeps a record of the total number of tokens in each zone. Because all inter-zone transfers go through the Cosmos Hub, you can send tokens from one zone to another without the need for a liquid exchange or trusted third party between zones.
+The Cosmos hub connects to zones via IBC (inter-blockchain communication) protocol) and keeps a record of the total number of tokens in each zone. Because all inter-zone transfers go through the Cosmos Hub, you can send tokens from one zone to another without the need for a liquid exchange or trusted third party between zones.
 
 - [Website](https://cosmos.network/intro/hub)
 - [Ethermint](https://ethermint.zone/)
