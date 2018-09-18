@@ -15,10 +15,7 @@ This document outlines solutions and discussions about bridging.
 
 ## BTC Relay
 
-Ethereum contract for Bitcoin SPV. The main functionality it provides are:
-- verification of a Bitcoin transaction
-- optionally relay the Bitcoin transaction to any Ethereum contract storage of Bitcoin block headers
-- inspection of the latest Bitcoin block header stored in the contract
+Ethereum contract for Bitcoin SPV. The main functionality it provides are: verification of a Bitcoin transaction,  optionally relay the Bitcoin transaction to any Ethereum contract storage of Bitcoin block headers, inspection of the latest Bitcoin block header stored in the contract.
 
 - ["btcrelay" GitHub Repo](https://github.com/ethereum/btcrelay)
 - [etherscan.io page for 0x41f274c0023f83391de4e0733c609df5a124c3d4](https://etherscan.io/address/0x41f274c0023f83391de4e0733c609df5a124c3d4)
