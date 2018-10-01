@@ -2,6 +2,8 @@
 
 Conceived by [Dr. Christian Lundkvist](https://twitter.com/ChrisLundkvist), meta txns enable users to interact with Ethereum without holding any ether.
 
+[2016 Snapshot of Slack post by Lundkvist](https://github.com/jpitts/eth-community-discussions/blob/master/image.png)
+
 ## uPort
 - [Making uPort Smart Contracts Smarter, Part 3: Fixing UX with Meta Txns](https://medium.com/uport/making-uport-smart-contracts-smarter-part-3-fixing-user-experience-with-meta-transactions-105209ed43e0) - Medium article
 - [Meta Transaction Relaying Server](https://developer.uport.me/rest-apis/relay-server/)
