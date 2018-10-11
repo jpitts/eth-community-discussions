@@ -4,6 +4,16 @@ This document outlines solutions and discussions about bridging.
 
 ---
 
+## POA Network Bridge
+
+- [Introducing POA Bridge and POA-20](https://medium.com/poa-network/introducing-poa-bridge-and-poa20-55d8b78058ac)
+- [GitHub repo](https://github.com/poanetwork/poa-bridge)
+- [Specification](https://hackmd.io/s/rkLKGbJLX#)
+
+## Giveth "ghetto bridge"
+
+- [Update mentioning bridge](https://medium.com/giveth/where-are-we-now-status-of-the-giveth-dapp-5f5ba7791d12)
+
 ## Grid+ Relay Networks
 
 - [Efficiently Bridging EVM Blockchains](https://blog.gridplus.io/efficiently-bridging-evm-blockchains-8421504e9ced) - discusses designs used in Relay Networks V2
