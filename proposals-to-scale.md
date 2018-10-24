@@ -13,11 +13,13 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Scaling Ethereum in 2018](https://www.youtube.com/watch?v=rnkqMSLuPHA) (video), a presentation by Lane Rettig
 
-## Special Considerations for Scaling Blockchains
+## Scaling Blockchains
 
 [Naive to tackle distributed systems and incentive mechanism design separately](https://twitter.com/VladZamfir/status/1014882947781087233) tweet by Vlad Zamfir
 
 [SoK: Consensus in the Age of Blockchains](https://arxiv.org/pdf/1711.03936.pdf) (PDF)
+
+[Scalability of Blockchains Summary of Knowledge](https://github.com/Mechanism-Labs/Summary-of-Knowledge-SoK-Scalability-of-Blockchains/tree/blockchain-stack) - Mechanism Labs paper under development
 
 ## General Strategies for Scaling the Ethereum Network
 
