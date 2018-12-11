@@ -24,7 +24,6 @@ Here is what I have right now. Everything on the “current chain” section are
 |tx/day cap|624,237|1,158,582,857|
 |tx/min|434|804,571|
 |tx/sec|7.2|13,410|
-[/quote]
 
 ---
 
