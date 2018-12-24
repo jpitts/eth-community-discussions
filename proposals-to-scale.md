@@ -46,6 +46,17 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Overview](https://raiden.network/101.html)
 - [FAQ](https://raiden.network/faq.html)
 
+### POA Network
+- [POA Network](https://poa.network/)
+- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
+- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+
+### Loom Network
+- [Loom Network](https://loomx.io)
+- [Overview](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
+- [Loom.js](https://github.com/loomnetwork/loom-js) - for building browser apps & services that interact with Loom DAppChains 
+
+
 ### Connext Network
 - One deployement on mainnet, this is a modified Perun
 - [Connext Network](https://connext.network/)
@@ -62,10 +73,7 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 Not ready for use in mainnet dapps, but getting closer.
 
-### POA Network
-- [POA Network](https://poa.network/)
-- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
-- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+
 
 ### Matic Network
 - Kovan testnet
