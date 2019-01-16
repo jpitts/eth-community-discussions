@@ -115,6 +115,7 @@ Still being researched, some proof of concept work.
 
 ### Ethereum Sharding Project
 - [State of Ethereum Protocol #1](https://media.consensys.net/state-of-ethereum-protocol-1-d3211dd0f6) - update from Ben Edgington of PegaSys
+- [An engineer's guide to 2.0](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd) by James Prestwich
 - [How sharding works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 - [How to Scale Ethereum: Sharding Explained](https://medium.com/prysmatic-labs/how-to-scale-ethereum-sharding-explained-ba2e283b7fce)
 - [FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
