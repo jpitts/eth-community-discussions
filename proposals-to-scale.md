@@ -130,6 +130,10 @@ Still being researched, some proof of concept work.
 
 ## Research Work
 
+### Smart Contracts and "compute" in Filecoin
+- [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
+- [Filecoin: protocol overview - BPASE '18](https://www.youtube.com/watch?v=vyRZBeMtkrA) @ 21:57
+
 ### "snaps" - dapps with SNARKS
 - [barryWhiteHat's roll_up](https://github.com/barryWhiteHat/roll_up)
 - [Plasma snapp - fully verified plasma chain](https://ethresear.ch/t/plasma-snapp-fully-verified-plasma-chain/3391)
