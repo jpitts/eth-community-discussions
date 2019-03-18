@@ -35,26 +35,19 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 ---
 
-## Solutions Available Now
+## Retro or Bootstrap Scaling Solutions
+
+### Infura web API - gateway to Ethereum and other networks
+- [Why Infura is the Secret Weapon of Ethereum Infrastructure](https://media.consensys.net/why-infura-is-the-secret-weapon-of-ethereum-infrastructure-af6fc7c77052)
+- [Getting started with Infura](https://blog.infura.io/getting-started-with-infura-28e41844cc89)
+
+---
+
+## Scaling Solutions Available Now
 
 [Spreadsheet summary of scaling solutions](https://docs.google.com/spreadsheets/d/1BQ0bK_LhSQvxtvXryVoIcmxeKMuVJCq6oD0aS5_hpC8/edit#gid=0) - organized by the Web3 Foundation / ScalingNOW initiative
 
 [Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
-
-### Raiden Network
-- [Description of the developer preview](https://raiden-network.readthedocs.io/en/stable/what_is_the_dev_preview.html)
-- [Overview](https://raiden.network/101.html)
-- [FAQ](https://raiden.network/faq.html)
-
-### POA Network
-- [POA Network](https://poa.network/)
-- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
-- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
-
-### Loom Network
-- [Loom Network](https://loomx.io)
-- [Overview](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
-- [Loom.js](https://github.com/loomnetwork/loom-js) - for building browser apps & services that interact with Loom DAppChains 
 
 ### Connext Network
 - One deployement on mainnet, this is a modified Perun
@@ -62,42 +55,46 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Overview of SpankChain live deployment](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
 - [Technical Update 7/27/2018](https://medium.com/connext/connext-v0-4-developer-update-667850e9cdd3)
 
+### Loom Network
+- [Loom Network](https://loomx.io)
+- [Overview](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
+- [Loom.js](https://github.com/loomnetwork/loom-js) - for building browser apps & services that interact with Loom DAppChains 
+
+### POA Network
+- [POA Network](https://poa.network/)
+- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
+- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+
+### Raiden Network
+- [Description of the developer preview](https://raiden-network.readthedocs.io/en/stable/what_is_the_dev_preview.html)
+- [Overview](https://raiden.network/101.html)
+- [FAQ](https://raiden.network/faq.html)
+
 ### SKALE
 - Plasma side-chain with an EVM
 - [SKALE](https://skalelabs.com/)
-
-### Infura web API
-- [Why Infura is the Secret Weapon of Ethereum Infrastructure](https://media.consensys.net/why-infura-is-the-secret-weapon-of-ethereum-infrastructure-af6fc7c77052)
-- [Getting started with Infura](https://blog.infura.io/getting-started-with-infura-28e41844cc89)
+- [Why SKALE?](https://medium.com/skale/why-skale-de649cbf3ab9) - Overview
 
 ---
 
-## Under Development / Testnets
+## Under Development / Not yet integrated w/ mainnet
 
 Not ready for use in mainnet dapps, but getting closer.
-
-
-
-### Matic Network
-- Kovan testnet
-- [Matic Network](https://matic.network/)
-- [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
+### Cosmos Hub
+- [Website](https://cosmos.network/intro/hub)
+- [Ethermint](https://ethermint.zone/) - is this active?
+- [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
+- [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
 
 ### Counterfactual
 - [Counterfactual Network](https://counterfactual.com/)
 - [Overview](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
 - [Introducing the Force-Move Games Framework](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f) - collaboration with Magmo
 
-### Cosmos Hub
-- [Website](https://cosmos.network/intro/hub)
-- [Ethermint](https://ethermint.zone/)
-- [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
-- [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
-
-### Thunder
-- [Website](https://www.thundertoken.com/)
-- [Thunderella paper](https://eprint.iacr.org/2017/913.pdf) by Elaine Shi and Rafael Pass
-- [PAXOS algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
+### Matic Network
+- Kovan testnet
+- [Matic Network](https://matic.network/)
+- [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
 
 ### Polkadot
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
@@ -105,13 +102,18 @@ Not ready for use in mainnet dapps, but getting closer.
 - [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
+### ThunderCore
+- [Website](https://www.thundertoken.com/)
+- [Thunderella paper](https://eprint.iacr.org/2017/913.pdf) by Elaine Shi and Rafael Pass
+- [PAXOS algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
+
 ---
 
 ## Still in R&D
 
 Still being researched, some proof of concept work.
 
-### Plasma Project
+### Plasma Framework
 - [Plasma Explained](https://medium.com/@argongroup/ethereum-plasma-explained-608720d3c60e)
 - [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (PDF)
 - [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
