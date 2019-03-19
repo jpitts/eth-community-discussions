@@ -1,5 +1,14 @@
 # User Experience Resources
 
+## [Ethereum UX Tools: The Ultimate Guide](https://hackernoon.com/ethereum-ux-tools-the-ultimate-guide-aad1cd2c128)
+
+Guide covers the following:
+- Wallets
+- Out of the Box Tools
+- Design Systems
+- Open Source UI
+- Frontend Ethereum APIs
+
 ## [Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97) - conflux.network
 
 - Key management - recovery
