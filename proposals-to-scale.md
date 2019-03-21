@@ -96,6 +96,11 @@ Not ready for use in mainnet dapps, but getting closer.
 - [Matic Network](https://matic.network/)
 - [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
 
+### Matter
+- SNARKs-driven Plasma
+- [Matter Labs](https://matter-labs.io/)
+- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+
 ### Polkadot
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
 - [Website](https://polkadot.network/)
