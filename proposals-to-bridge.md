@@ -20,6 +20,14 @@ A fully decentralized "federation" of chains, allowing both open and closed netw
 - [Overview of "parachain"](https://medium.com/polkadot-network/polkadot-the-parachain-3808040a769a)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
+## Canto
+
+By applying a similar logic as that found within traditional networking protocols such as TCP/IP, we propose a novel approach toward the optimization of the existing Ethereum network in a manner that only requires a marginal degree of additional development to the existing system.
+
+- [Overview](https://medium.com/whiteblock/canto-overview-5f8f3a6f7dad) by Trenton Van Epps
+- [Specification](https://github.com/canto-ethereum/spec/blob/master/canto.md)
+- [FAQ](https://github.com/canto-ethereum/spec/blob/master/canto.md#faq)
+
 ## Cosmos Hub
 
 The Cosmos hub connects to zones via IBC (inter-blockchain communication) protocol) and keeps a record of the total number of tokens in each zone. Because all inter-zone transfers go through the Cosmos Hub, you can send tokens from one zone to another without the need for a liquid exchange or trusted third party between zones.
