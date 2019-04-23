@@ -3,7 +3,7 @@
 ## Community Forums
 
 **Ethereum Forum**
-- (forum.ethereum.org)[https://forum.ethereum.org/]
+- [forum.ethereum.org](https://forum.ethereum.org/)
 - Discussions about Ethereum mining and mining pools
 
 **EthResearch**
