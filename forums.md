@@ -18,6 +18,14 @@
 - [discuss.conflux.network](http://discuss.conflux.network/)
 - Discussions about UX, user experience research, dapp usability, on-boarding. 
 
+**Etherian**
+- [forum.etherean.org](https://forum.etherean.org/)
+- Discussions about governance, society, and philosophy in the Ethereum community.
+
+**Conflux**
+- [discuss.conflux.network](http://discuss.conflux.network/)
+- Discussions about UX, user experience research, dapp usability, on-boarding. 
+
 **DGOV**
 - [forum.dgov.foundation](https://forum.dgov.foundation/)
 - Discussions about Ethereum governance.
@@ -31,6 +39,9 @@
 **Aragon**
 - [forum.aragon.org](https://forum.aragon.org/)
 
-**TruStory 
+**Gnosis**
+- [forum.gnosis.pm](https://forum.gnosis.pm/)
+
+**TruStory**
 - [discourse.trustory.io](https://discourse.trustory.io)
 
