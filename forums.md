@@ -47,6 +47,9 @@
 [/r/ethculture](https://www.reddit.com/r/ethculture/)
 - Links to art projects, images, and videos
 
+[/r/EtherMining](https://www.reddit.com/r/EtherMining/)
+- Discussion of mining the cryptocurrency Ethereum.
+
 ## Firms, Foundations, Funding Sources, Projects
 
 **Status**
