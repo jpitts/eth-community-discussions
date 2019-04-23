@@ -2,6 +2,10 @@
 
 ## Communities
 
+**Ethereum Forum**
+- (forum.ethereum.org)[https://forum.ethereum.org/]
+- Discussions about Ethereum mining and mining pools
+
 **EthResearch**
 - [ethresear.ch](https://ethresear.ch/)
 - System design discussions for Ethereum 2.0, Plasma, crypto-economics.
@@ -26,8 +30,24 @@
 - [forum.dgov.foundation](https://forum.dgov.foundation/)
 - Discussions about Ethereum governance.
 
+## Community Subreddits
 
-## Firms, Foundations, Funding Sources
+[/r/ethereum](https://www.reddit.com/r/ethereum/)
+- Links and discussions about the technology, the ecosystem, and issues in the community 
+
+[/r/ethtrader](https://www.reddit.com/r/ethtrader/)
+- Ethereum-related news, memes, investing, trading, miscellaneous market-related subjects
+
+[/r/ethdev](https://www.reddit.com/r/ethdev/)
+- Links and discussions about Ethereum Development and DApps
+
+[/r/ethlaw](https://www.reddit.com/r/ethlaw/)
+- Links and discussions about Ethereum's relationship with traditional legal systems, as well as new forms of contracts and law
+
+[/r/ethculture](https://www.reddit.com/r/ethculture/)
+- Links to art projects, images, and videos
+
+## Firms, Foundations, Funding Sources, Projects
 
 **Status**
 - [discuss.status.im](https://discuss.status.im/)
@@ -40,4 +60,8 @@
 
 **TruStory**
 - [discourse.trustory.io](https://discourse.trustory.io)
+
+**Cryptoeconomics.study**
+- [forum.cryptoeconomics.study](https://forum.cryptoeconomics.study/)
+- Discussions related the Cryptoeconomics.study course
 
