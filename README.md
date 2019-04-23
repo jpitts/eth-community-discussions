@@ -2,9 +2,9 @@
 
 ## Awesome Lists
 
-[Ethereum Forums](https://github.com/jpitts/eth-community-discussions/blob/master/forums.md)
+[Forums / BBS Boards](https://github.com/jpitts/eth-community-discussions/blob/master/forums.md)
 
-[Bridge To & From Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
+[Bridges "to and from" Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
 
 [Scaling the Ethereum network](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-scale.md)
 
