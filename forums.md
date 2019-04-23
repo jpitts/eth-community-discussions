@@ -65,3 +65,5 @@
 - [forum.cryptoeconomics.study](https://forum.cryptoeconomics.study/)
 - Discussions related the Cryptoeconomics.study course
 
+**WalletConnect**
+- [discuss.walletconnect.org](https://discuss.walletconnect.org)
