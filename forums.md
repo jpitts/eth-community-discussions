@@ -1,6 +1,6 @@
 # A List of Ethereum-related Forums 
 
-## Communities
+## Community Forums
 
 **Ethereum Forum**
 - (forum.ethereum.org)[https://forum.ethereum.org/]
