@@ -16,7 +16,7 @@
 
 **EthHub**
 - [community.ethhub.io](https://community.ethhub.io/)
-- Community discussions about governance and economics.
+- The goal of this community is to give a voice to anyone interested in Ethereum. This includes users, investors and developers. The hope is that these discussions can be used as a signal in the Ethereum governance process and allow the core devs to focus on more technical discussions.
 
 **Conflux**
 - [discuss.conflux.network](http://discuss.conflux.network/)
