@@ -61,6 +61,9 @@
 **Gnosis**
 - [forum.gnosis.pm](https://forum.gnosis.pm/)
 
+**OmiseGO**
+- [forum.omgnetwork.org](https://forum.omgnetwork.org/) 
+
 **TruStory**
 - [discourse.trustory.io](https://discourse.trustory.io)
 
