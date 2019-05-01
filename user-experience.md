@@ -1,5 +1,12 @@
 # User Experience Resources
 
+## [Research Is Not Enough](https://hackernoon.com/https-medium-com-okduncan-research-is-not-enough-moreexperiementation-404f69d20e52) by James Duncan
+
+UX remains an aching blindspot in the Ethereum ecosystem.
+- Despite being available, very few applications are utilizing the capability of layer two solutions
+- There will be many high powered chains that come in to eat Ethereum’s lunch 
+- A higher rate of shipping should result in more detailed adjustments
+
 ## [Ethereum UX Tools: The Ultimate Guide](https://hackernoon.com/ethereum-ux-tools-the-ultimate-guide-aad1cd2c128)
 
 Guide covers the following:
