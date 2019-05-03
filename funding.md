@@ -58,13 +58,13 @@ These are organizations which have large amounts of ETH to support projects with
 
 ### Gitcoin
 
-[Website](https://gitcoin.co/)
-[Explorer](https://gitcoin.co/explorer)
+- [Website](https://gitcoin.co/)
+- [Explorer](https://gitcoin.co/explorer)
 
 ### Bounties Network
 
-[Website](https://bounties.network/)
-[Explorer](https://explorer.bounties.network/explorer)
+- [Website](https://bounties.network/)
+- [Explorer](https://explorer.bounties.network/explorer)
 
 ## Funding via DAOs by Self-Organized Groups
 
@@ -81,6 +81,10 @@ These are organizations which have large amounts of ETH to support projects with
 - [Introduction](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
 - [GitHub Repo](https://github.com/molochventures/moloch)
 - [Twitter](https://twitter.com/molochdao)
+
+### MetaCartel DAO
+
+- [Introduction - Part 1](https://medium.com/metacartel/rising-threats-to-ethereums-first-mover-advantage-6138bd6c860)
 
 ## Fund Governance Tools
 
