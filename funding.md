@@ -90,7 +90,7 @@ These are organizations which have large amounts of ETH to support projects with
 
 ### Budget Box
 
-[Introduction](https://blog.colony.io/introducing-budgetbox/) by Colony
-[Decentralized Capital Allocation via Budgeting Boxes]() - white paper
+- [Introduction](https://blog.colony.io/introducing-budgetbox/) by Colony
+- [Decentralized Capital Allocation via Budgeting Boxes]() - white paper
 
 
