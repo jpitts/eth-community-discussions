@@ -8,7 +8,7 @@
 
 [FEM Forum topics tagged w/ "business models"](https://ethereum-magicians.org/tags/business-models)
 
-## Grants and Community Funds
+## Funding by Firms and Foundations
 
 These are organizations which have large amounts of ETH to support projects with, and a process in place to fund.
 
@@ -21,22 +21,66 @@ These are organizations which have large amounts of ETH to support projects with
 
 ### Ethereum Foundation - EF
 
-[Wave 5 Blog Post](https://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/) - describes current priorities and recent recipients.
-[Wave 5 Grants Application](https://ethunicorns.typeform.com/to/XhZlnp)
+- [Wave 5 Blog Post](https://blog.ethereum.org/2019/02/21/ethereum-foundation-grants-program-wave-5/) - describes current priorities and recent recipients.
+- [Wave 5 Grants Application](https://ethunicorns.typeform.com/to/XhZlnp)
+
+### Web3 Foundation - W3F
+
+- [Website](https://github.com/w3f/Web3-collaboration/blob/master/grants/grants.md)
+- [Wave 1 Blog Post](https://medium.com/web3foundation/web3-foundation-grants-wave-one-winners-2a9cd39f1fbc)
+- [Application](https://github.com/w3f/Web3-collaboration/blob/master/grants/grants.md#process) - involves a PR on a GitHub repo
 
 ### Ethereum Community Fund - ECF
 
-[Website](https://ecf.network)
-[Application](https://ecfnetwork.typeform.com/to/nSA6Id)
+- [Website](https://ecf.network)
+- [Application](https://ecfnetwork.typeform.com/to/nSA6Id)
 
-## DAOs and Community Incubators
+### Tachyon Accelerator by ConsenSys
+
+- [Website](https://tachyoncv.vc)
+- [Application](https://tachyon.submittable.com/submit)
+
+### Gnosis Ecosystem Fund - GECO
+
+- [Website](https://github.com/gnosis/GECO)
+- [Application](https://github.com/gnosis/GECO#how-to-submit-your-proposal) - involves a PR on a GitHub repo
+
+### Aragon Nest 
+
+- [Website](https://wiki.aragon.org/nest/)
+- [Application](https://github.com/aragon/nest#how-to-submit-a-proposal-for-a-grant) - involves a PR on a GitHub repo
+
+### Status.im Incubator
+
+- [Website](https://incubate.status.im/)
+
+## Bounty Networks
+
+### Gitcoin
+
+[Website](https://gitcoin.co/)
+[Explorer](https://gitcoin.co/explorer)
+
+### Bounties Network
+
+[Website](https://bounties.network/)
+[Explorer](https://explorer.bounties.network/explorer)
+
+## Funding via DAOs by Self-Organized Groups
+
+### Giveth Decentralized Altruistic Community - Giveth DAC
+
+- [Website / Documentation](https://wiki.giveth.io/dac/)
+- [Introduction](https://medium.com/giveth/the-future-of-giving-is-crowdfunding-the-commons-ac265e3010b8)
+- [Loomion Discussion Board](https://www.loomio.org/g/RQZt4qJ3/giveth)
+- [Twitter](https://twitter.com/givethio)
 
 ### Moloch DAO
 
-[Website](https://molochdao.com/)
-[Introduction](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
-[Twitter](https://twitter.com/molochdao)
-[GitHub Repo](https://github.com/molochventures/moloch)
+- [Website](https://molochdao.com/)
+- [Introduction](https://medium.com/@simondlr/the-moloch-dao-collapsing-the-firm-2a800b3aa2e7)
+- [GitHub Repo](https://github.com/molochventures/moloch)
+- [Twitter](https://twitter.com/molochdao)
 
 ## Fund Governance Tools
 
