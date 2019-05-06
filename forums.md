@@ -30,6 +30,10 @@
 - [forum.dgov.foundation](https://forum.dgov.foundation/)
 - Discussions about Ethereum governance.
 
+**DAOtalk**
+- [daotalk.org](https://daotalk.org/latest)
+- Discussions about decentralized autonomous organizations (DAOs).
+
 ## Community Subreddits
 
 [/r/ethereum](https://www.reddit.com/r/ethereum/)
