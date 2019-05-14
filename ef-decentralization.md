@@ -10,6 +10,8 @@ A key asset of the EF is its trademark "Ethereum". How this is enforced says a l
 
 ["Ethereum Foundation didn't take down Ethereum Classic with a trademark"](https://twitter.com/virgilgr/status/1122849831511138304) - Virgil Griffith
 
+## Atomization?
+
 Certain stakeholders at the Ethereum Foundation advocate that the organization continue to decentralize, possibly even atomize and cease to exist except in the most minimal form.
 
 Evidence of this orientation can be found in the following:
