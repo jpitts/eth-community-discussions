@@ -68,6 +68,9 @@
 **OmiseGO**
 - [forum.omgnetwork.org](https://forum.omgnetwork.org/) 
 
+**SourceCred**
+- [discourse.sourcecred.io](https://discourse.sourcecred.io/)
+
 **TruStory**
 - [discourse.trustory.io](https://discourse.trustory.io)
 
