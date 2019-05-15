@@ -1,4 +1,4 @@
-# UX Toolkits
+# UI Toolkits
 
 A list of toolkits, libraries, and services which improve the usability of Ethereum dapps.
 
