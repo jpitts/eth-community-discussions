@@ -1,5 +1,17 @@
 # User Experience Resources
 
+## [Perception of the Ethereum UX](https://medium.com/metacartel/perception-of-the-ethereum-ux-d39b89da0008) by Lili Feyerabend
+
+The survey was divided into five sections:
+
+1) Qualification
+2) Segmentation
+3) Relative preference
+4) User expectation
+5) User pain points
+
+"Contrary to popular belief, the respondents affirmed that Ethereum’s biggest barrier to adoption lay in the realm of product design rather than technological capacity and network performance."
+
 ## [Research Is Not Enough](https://hackernoon.com/https-medium-com-okduncan-research-is-not-enough-moreexperiementation-404f69d20e52) by James Duncan
 
 UX remains an aching blindspot in the Ethereum ecosystem.
