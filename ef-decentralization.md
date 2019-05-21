@@ -16,10 +16,19 @@ Certain stakeholders at the Ethereum Foundation advocate that the organization c
 
 Evidence of this orientation can be found in the following:
 
-[Decentralization by Elimination](https://www.decentralizedweb.net/videos/talk-decentralization-by-elimination/) - Aya Miyaguchi and Albert Ni
+[Ethereum Foundation Spring 2019 Update](https://blog.ethereum.org/2019/05/21/ethereum-foundation-spring-2019-update/)
+
+```
+Even as we deploy significant resources across the ecosystem to improve Ethereum, we must do so in a way that maintains the core spirit of decentralization. We have deliberately adopted a philosophy of subtraction, which informs everything that we do.
+
+In plain language, following a philosophy of subtraction means resisting the natural tendency of organizations to grow and accumulate value within themselves, and ensure instead that this value is created outside the Foundation in the broader Ethereum ecosystem.
+```
+
+Possibly: [Control as Liability](https://vitalik.ca/general/2019/05/09/control_as_liability.html) by Vitalik Buterin
+
+[Decentralization by Elimination](https://www.decentralizedweb.net/videos/talk-decentralization-by-elimination/) - Summer 2018 presentation by Aya Miyaguchi and Albert Ni
 
 ```"Decentralization has become a buzzword. A marketing gimmick. Without the elimination of centralized authorities, there cannot be true decentralization. How does an organization eliminate itself for the better future of the decentralized web?"```
 
 ["Actually yes.  We want the Foundation to, eventually, no longer exist."](https://twitter.com/virgilgr/status/1123751096068055041) - Virgil Griffith
 
-Possibly: [Control as Liability](https://vitalik.ca/general/2019/05/09/control_as_liability.html) by Vitalik Buterin
