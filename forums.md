@@ -81,5 +81,5 @@
 **WalletConnect**
 - [discuss.walletconnect.org](https://discuss.walletconnect.org)
 
-**Zeppelin Community
+**Zeppelin Community**
 - [forum.zeppelin.solutions](https://forum.zeppelin.solutions/)
