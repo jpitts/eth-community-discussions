@@ -80,3 +80,6 @@
 
 **WalletConnect**
 - [discuss.walletconnect.org](https://discuss.walletconnect.org)
+
+**Zeppelin Community
+- [forum.zeppelin.solutions](https://forum.zeppelin.solutions/)
