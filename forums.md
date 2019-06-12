@@ -18,6 +18,10 @@
 - [community.ethhub.io](https://community.ethhub.io/)
 - Community discussions about governance and economics.
 
+**Plasma Layer 2 Forum**
+- [plasma.build](https://plasma.build)
+- Discussions about the various implementations of the Plasma scaling framework
+
 **Conflux**
 - [discuss.conflux.network](http://discuss.conflux.network/)
 - Discussions about UX, user experience research, dapp usability, on-boarding. 
