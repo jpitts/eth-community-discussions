@@ -10,6 +10,10 @@
 - [ethresear.ch](https://ethresear.ch/)
 - System design discussions for Ethereum 2.0, Plasma, crypto-economics.
 
+**SwarmResearch**
+- [swarmresear.ch](https://swarmresear.ch/)
+- System design discussions for Swarm, distributed storage, content distribution.
+
 **Ethereum Magicians**
 - [ethereum-magicians.org](https://ethereum-magicians.org)
 - Coordination of improvements to the Ethereum 1.0 protocol, EIPs, dapps, technical infrastructure, education.
