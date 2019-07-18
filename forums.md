@@ -70,6 +70,9 @@
 **Aragon**
 - [forum.aragon.org](https://forum.aragon.org/)
 
+**MetaCartel**
+- [forum.metacartel.org](https://forum.metacartel.org/)
+
 **Gnosis**
 - [forum.gnosis.pm](https://forum.gnosis.pm/)
 
