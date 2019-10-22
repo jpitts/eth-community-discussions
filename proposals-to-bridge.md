@@ -4,6 +4,12 @@ This document outlines solutions and discussions about bridging.
 
 ---
 
+## Two-way Bridges Between Eth1 and Eth2
+
+- [Proposal by Vitalik Buterin](https://ethresear.ch/t/two-way-bridges-between-eth1-and-eth2/6286) - ethresearch discussion
+
+---
+
 ## POA Network Bridge
 
 - [Introducing POA Bridge and POA-20](https://medium.com/poa-network/introducing-poa-bridge-and-poa20-55d8b78058ac)
