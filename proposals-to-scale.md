@@ -79,10 +79,11 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 ## Under Development / Not yet integrated w/ mainnet
 
-Not ready for use in mainnet dapps, but getting closer.
+Not ready for use w/ mainnet Ethereum dapps, but getting closer.
+
 ### Cosmos Hub
 - [Website](https://cosmos.network/intro/hub)
-- [Ethermint](https://ethermint.zone/) - is this active?
+- [Ethermint](https://ethermint.zone/) - under [active development](https://github.com/ChainSafe/ethermint) by ChainSafe
 - [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
 - [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
 
@@ -135,11 +136,14 @@ Still being researched, some proof of concept work.
 
 ## Research Work
 
-### Smart Contracts and "compute" in Filecoin
-- [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
-- [Filecoin: protocol overview - BPASE '18](https://www.youtube.com/watch?v=vyRZBeMtkrA) @ 21:57
+### Rollups
+- [Summary: The Dawn of Hybrid Layer 2 Protocols](https://vitalik.ca/general/2019/08/28/hybrid_layer_2.html) - by Vitalik Buterin
 
-### "snaps" - dapps with SNARKS
+**Optimistic Rollups**
+- [Minimal Viable Merged Consensus](https://ethresear.ch/t/minimal-viable-merged-consensus/5617) - by John Adler and Mikerah Quintyne-Collins
+- [The Whys of Optimistic Rollup](https://medium.com/@adlerjohn/the-why-s-of-optimistic-rollup-7c6a22cbb61a)
+
+**ZK-Rollups**
 - [barryWhiteHat's roll_up](https://github.com/barryWhiteHat/roll_up)
 - [Plasma snapp - fully verified plasma chain](https://ethresear.ch/t/plasma-snapp-fully-verified-plasma-chain/3391)
 
@@ -148,6 +152,10 @@ Still being researched, some proof of concept work.
 - [PERUN: Virtual Payment Hubs
 over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 - [Foundations of State Channel Networks](https://eprint.iacr.org/2018/320.pdf) (PDF)
+
+### Smart Contracts and "compute" in Filecoin
+- [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
+- [Filecoin: protocol overview - BPASE '18](https://www.youtube.com/watch?v=vyRZBeMtkrA) @ 21:57
 
 ---
 
