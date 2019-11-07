@@ -144,6 +144,7 @@ Still being researched, some proof of concept work.
 - [The Whys of Optimistic Rollup](https://medium.com/@adlerjohn/the-why-s-of-optimistic-rollup-7c6a22cbb61a)
 
 **ZK-Rollups**
+- [On-chain scaling to potentially ~500 tx/sec through mass tx validation](https://ethresear.ch/t/on-chain-scaling-to-potentially-500-tx-sec-through-mass-tx-validation/3477) - by Vitalik Buterin
 - [barryWhiteHat's roll_up](https://github.com/barryWhiteHat/roll_up)
 - [Plasma snapp - fully verified plasma chain](https://ethresear.ch/t/plasma-snapp-fully-verified-plasma-chain/3391)
 
