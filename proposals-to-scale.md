@@ -140,9 +140,19 @@ Still being researched, some proof of concept work.
 - [FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 - [Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649) by Hsiao-Wei Wang
 
+### Smart Contracts and "compute" in Filecoin
+- [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
+- [Filecoin: protocol overview - BPASE '18](https://www.youtube.com/watch?v=vyRZBeMtkrA) @ 21:57
+
 ---
 
 ## Research Work
+
+### Ethereum Community R&D
+- [EthResearch](https://ethresear.ch/) is where discussions about scaling Ethereum generally happen
+
+### Stateless Ethereum / Eth1x
+- [EthResearch topics](https://ethresear.ch/c/eth1x-research)
 
 ### Rollups
 - [Summary: The Dawn of Hybrid Layer 2 Protocols](https://vitalik.ca/general/2019/08/28/hybrid_layer_2.html) - by Vitalik Buterin
@@ -162,9 +172,7 @@ Still being researched, some proof of concept work.
 over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 - [Foundations of State Channel Networks](https://eprint.iacr.org/2018/320.pdf) (PDF)
 
-### Smart Contracts and "compute" in Filecoin
-- [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
-- [Filecoin: protocol overview - BPASE '18](https://www.youtube.com/watch?v=vyRZBeMtkrA) @ 21:57
+
 
 ---
 
