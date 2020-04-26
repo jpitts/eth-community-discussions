@@ -50,10 +50,10 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 [Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
 
 ### Connext Network
-- One deployement on mainnet, this is a modified Perun
+- State channels
 - [Connext Network](https://connext.network/)
 - [Overview of SpankChain live deployment](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
-- [Technical Update 7/27/2018](https://medium.com/connext/connext-v0-4-developer-update-667850e9cdd3)
+- [Overview of v2.0 on mainnet](https://medium.com/connext/connext-v2-0-is-on-mainnet-b818864d3687)
 
 ### Loom Network
 - [Loom Network](https://loomx.io)
@@ -65,42 +65,31 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
 - [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
 
-### Raiden Network
-- [Description of the developer preview](https://raiden-network.readthedocs.io/en/stable/what_is_the_dev_preview.html)
-- [Overview](https://raiden.network/101.html)
-- [FAQ](https://raiden.network/faq.html)
-
 ### SKALE
 - Plasma side-chain with an EVM
 - [SKALE](https://skalelabs.com/)
 - [Why SKALE?](https://medium.com/skale/why-skale-de649cbf3ab9) - Overview
 
----
+### Matic Network
+- [Matic Network](https://matic.network/)
+- [Matic 2019 Year In Review](https://medium.com/matic-network/year-in-review-2019-matic-network-aa47bf1b201b)
 
-## Under Development / Not yet integrated w/ mainnet
+### Raiden Network
+- [Description of the developer preview](https://raiden-network.readthedocs.io/en/stable/what_is_the_dev_preview.html)
+- [Overview](https://raiden.network/101.html)
+- [FAQ](https://raiden.network/faq.html)
 
-Not ready for use w/ mainnet Ethereum dapps, but getting closer.
+### Counterfactual
+- State Channels
+- [Counterfactual Network](https://counterfactual.com/)
+- [Overview](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
+- [Introducing the Force-Move Games Framework](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f) - collaboration with Magmo
 
 ### Cosmos Hub
 - [Website](https://cosmos.network/intro/hub)
 - [Ethermint](https://ethermint.zone/) - under [active development](https://github.com/ChainSafe/ethermint) by ChainSafe
 - [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
 - [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
-
-### Counterfactual
-- [Counterfactual Network](https://counterfactual.com/)
-- [Overview](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
-- [Introducing the Force-Move Games Framework](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f) - collaboration with Magmo
-
-### Matic Network
-- Kovan testnet
-- [Matic Network](https://matic.network/)
-- [Technical Update 9/13/2018](https://medium.com/matic-network/matic-network-technical-update-1-beca0eaa25b4)
-
-### Matter
-- SNARKs-driven Plasma
-- [Matter Labs](https://matter-labs.io/)
-- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
 
 ### Polkadot
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
@@ -115,6 +104,24 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 
 ---
 
+## Under Development / Not yet integrated w/ mainnet
+
+Not ready for use w/ mainnet Ethereum dapps, but getting closer.
+
+### Eth2 Phase 0
+- Phase 0 is the Beacon chain, used for protocol attestations
+- [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
+
+### Fuel Labs
+- Optimistic Rollups
+- [Fuel Labs](https://fuel.sh/)
+
+### Optimism
+- Optimistic Rollups w/ EVM
+- [Optimism](https://optimism.io/)
+
+---
+
 ## Still in R&D
 
 Still being researched, some proof of concept work.
@@ -124,8 +131,9 @@ Still being researched, some proof of concept work.
 - [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (PDF)
 - [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 
-### Ethereum Sharding Project
-- [State of Ethereum Protocol #1](https://media.consensys.net/state-of-ethereum-protocol-1-d3211dd0f6) - update from Ben Edgington of PegaSys
+### Eth2 / Ethereum Sharding Project - Phase 1 and 2, General Protocol
+- Note: Phase 0 is specified, viable clients are built, and the network will be launching in the near future
+- [Phase 1](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/#phase-1-shard-chains) shards and [Phase 2](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/#phase-2-state-execution) execution engines
 - [An engineer's guide to 2.0](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd) by James Prestwich
 - [How sharding works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 - [How to Scale Ethereum: Sharding Explained](https://medium.com/prysmatic-labs/how-to-scale-ethereum-sharding-explained-ba2e283b7fce)
@@ -161,6 +169,13 @@ over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 ---
 
 ## What's Happening?
+
+Recently not enough information, GitHub updates, etc. to determine status
+
+### Matter
+- SNARKs-driven Plasma
+- [Matter Labs](https://matter-labs.io/)
+- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
 
 ### TrueBit
 - [An Introduction to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
