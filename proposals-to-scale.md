@@ -112,6 +112,18 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Phase 0 is the Beacon chain, used for protocol attestations
 - [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
 
+### LeapDAO / Plasma (old orientation)
+- A set of NFTs represents verifiable EVM state transitions, enabling the EVM to "leap" into Plasma 
+- [Plasma Leap white paper](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8/edit#heading=h.krdzwa9n8mii)
+- [Documentation](https://docs.leapdao.org)
+- [Announcement of reorientation](http://ipfs.leapdao.org/blog/mainnet-shutdown) - moving toward ORUs and ZK-rollups
+
+### Matter Labs / Plasma (old orientation)
+- SNARKs-driven Plasma
+- [Matter Labs](https://matter-labs.io/)
+- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+- [Announcement of reorientation](https://medium.com/matter-labs/software-engineering-jobs-at-matter-labs-c456d01b2a02) - moved toward ZK-rollups
+
 ### Fuel Labs
 - Optimistic Rollups
 - [Fuel Labs](https://fuel.sh/)
@@ -179,11 +191,6 @@ over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 ## What's Happening?
 
 Recently not enough information, GitHub updates, etc. to determine status
-
-### Matter
-- SNARKs-driven Plasma
-- [Matter Labs](https://matter-labs.io/)
-- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
 
 ### TrueBit
 - [An Introduction to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
