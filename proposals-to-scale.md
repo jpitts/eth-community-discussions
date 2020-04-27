@@ -120,6 +120,7 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 ### Fuel Labs
 - Optimistic Rollups
 - [Fuel Labs](https://fuel.sh/)
+- [Overview of beta / testnet](https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3)
 
 ---
 
