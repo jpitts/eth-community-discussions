@@ -104,7 +104,7 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 ---
 
-## Under Development / Not yet integrated w/ mainnet
+## Under Development / Testnets
 
 Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 
@@ -112,36 +112,39 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Phase 0 is the Beacon chain, used for protocol attestations
 - [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
 
-### LeapDAO / Plasma (old orientation)
-- A set of NFTs represents verifiable EVM state transitions, enabling the EVM to "leap" into Plasma 
-- [Plasma Leap white paper](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8/edit#heading=h.krdzwa9n8mii)
-- [Documentation](https://docs.leapdao.org)
-- [Announcement of reorientation](http://ipfs.leapdao.org/blog/mainnet-shutdown) - moving toward ORUs and ZK-rollups
-
-### Matter Labs / Plasma (old orientation)
-- SNARKs-driven Plasma
-- [Matter Labs](https://matter-labs.io/)
-- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
-- [Announcement of reorientation](https://medium.com/matter-labs/software-engineering-jobs-at-matter-labs-c456d01b2a02) - moved toward ZK-rollups
+### Plasma Chamber
+- OVM over Plasma Cashflow
+- [Cryptoeconomics Lab's Plasma Chamber](https://www.cryptoeconomicslab.com)
+- [Overview](https://github.com/cryptoeconomicslab/plasma-chamber) and [Documentation](https://github.com/cryptoeconomicslab/plasma-chamber/wiki)
 
 ### Fuel Labs
 - Optimistic Rollups
 - [Fuel Labs](https://fuel.sh/)
 
-### Optimism
-- Optimistic Rollups w/ EVM
-- [Optimism](https://optimism.io/)
+---
+
+## Recently Reoriented
+
+### LeapDAO / Plasma
+- A set of NFTs represents verifiable EVM state transitions, enabling the EVM to "leap" into Plasma 
+- [Plasma Leap white paper](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8/edit#heading=h.krdzwa9n8mii)
+- [Documentation](https://docs.leapdao.org)
+- [Announcement of reorientation](http://ipfs.leapdao.org/blog/mainnet-shutdown) - moving toward ORUs and ZK-rollups
+
+### Matter Labs / Plasma
+- SNARKs-driven Plasma
+- [Matter Labs](https://matter-labs.io/)
+- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+- [Announcement of reorientation](https://medium.com/matter-labs/software-engineering-jobs-at-matter-labs-c456d01b2a02) - moved toward ZK-rollups
+
+### Plasma Group
+- generalized framework for all Plasma types
+- [Documentation](https://docs.plasma.group/projects/spec/en/latest/)
+- [Announcement of reorientation](https://medium.com/plasma-group/on-to-new-beginnings-e9d76b170752) - moved toward ORUs, group is re-named to Optimism
 
 ---
 
-## Still in R&D
-
-Still being researched, some proof of concept work.
-
-### Plasma Framework
-- [Plasma Explained](https://medium.com/@argongroup/ethereum-plasma-explained-608720d3c60e)
-- [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (PDF)
-- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
+## Still in R&D / Prototypes
 
 ### Eth2 / Ethereum Sharding Project - Phase 1 and 2, General Protocol
 - Note: Phase 0 is specified, viable clients are built, and the network will be launching in the near future
@@ -151,6 +154,15 @@ Still being researched, some proof of concept work.
 - [How to Scale Ethereum: Sharding Explained](https://medium.com/prysmatic-labs/how-to-scale-ethereum-sharding-explained-ba2e283b7fce)
 - [FAQ](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 - [Overview and Finality](https://medium.com/@icebearhww/ethereum-sharding-and-finality-65248951f649) by Hsiao-Wei Wang
+
+### Nitro Protocol
+- "standard" state channels
+- [Nitro Protocol](https://protocol.statechannels.org)
+- [Documentation](https://protocol.statechannels.org/docs/state-channels/overview)
+
+### Optimism
+- Optimistic Rollups w/ EVM
+- [Optimism](https://optimism.io/)
 
 ### Smart Contracts and "compute" in Filecoin
 - [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
@@ -165,6 +177,15 @@ Still being researched, some proof of concept work.
 
 ### Stateless Ethereum / Eth1x
 - [EthResearch topics](https://ethresear.ch/c/eth1x-research)
+
+### State Channels
+- [Overview of state channels](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/state-channels/)
+- [Proposed state channels standard](https://statechannels.org)
+
+### Plasma Framework
+- [Plasma Explained](https://medium.com/@argongroup/ethereum-plasma-explained-608720d3c60e)
+- [Plasma World Map](https://ethresear.ch/t/plasma-world-map-the-hitchhiker-s-guide-to-the-plasma/4333)
+- [Minimal Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426)
 
 ### Rollups
 - [Summary: The Dawn of Hybrid Layer 2 Protocols](https://vitalik.ca/general/2019/08/28/hybrid_layer_2.html) - by Vitalik Buterin
