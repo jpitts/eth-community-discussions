@@ -24,9 +24,11 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 ### POA Network Bridge
 
-- [Introducing POA Bridge and POA-20](https://medium.com/poa-network/introducing-poa-bridge-and-poa20-55d8b78058ac)
-- [GitHub repo](https://github.com/poanetwork/poa-bridge)
-- [Specification](https://hackmd.io/s/rkLKGbJLX#)
+- [Introducing the ERC20 to ERC20 TokenBridge](https://medium.com/poa-network/introducing-the-erc20-to-erc20-tokenbridge-ce266cc1a2d0) (also supports "Arbitrary-Message" / arbitrary contract method invocation)
+- [TokenBridge GitHub repo](https://github.com/poanetwork/tokenbridge)
+- [Documentation](https://docs.tokenbridge.net/)
+- [Related Forum Discussions](https://forum.poa.network/c/tokenbridge/25)
+- older/deprecated [POABridge GitHub repo](https://github.com/poanetwork/poa-bridge)
 
 ### Matic Swaps
 
