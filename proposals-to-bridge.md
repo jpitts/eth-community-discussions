@@ -120,6 +120,8 @@ The Cosmos hub connects to zones via IBC (inter-blockchain communication) protoc
 
 ## Writings and Discussions
 
+[Trustless Two-Way Bridges With Side Chains By Halting](https://ethresear.ch/t/trustless-two-way-bridges-with-side-chains-by-halting/5728) - very good overview of techniques (and interesting proposal) by @adlerjohn, @matt, @mikerah, and @villanuevawill
+
 [Atomic Crosschain Transactions for Ethereum Private Sidechains](https://arxiv.org/pdf/1904.12079.pdf) - paper from ConsenSys / PegaSys, School of Information Technology and Electrical Engineering, University of Queensland, Australia
 
 [Atomic Cross-Chain Swaps](https://arxiv.org/pdf/1801.09515.pdf) - July 2018 paper by Maurice Herlihy
