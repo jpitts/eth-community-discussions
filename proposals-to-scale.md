@@ -55,11 +55,6 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Overview of SpankChain live deployment](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
 - [Overview of v2.0 on mainnet](https://medium.com/connext/connext-v2-0-is-on-mainnet-b818864d3687)
 
-### Loom Network
-- [Loom Network](https://loomx.io)
-- [Overview](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
-- [Loom.js](https://github.com/loomnetwork/loom-js) - for building browser apps & services that interact with Loom DAppChains 
-
 ### POA Network
 - [POA Network](https://poa.network/)
 - [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
@@ -111,6 +106,12 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 ### Eth2 Phase 0
 - Phase 0 is the Beacon chain, used for protocol attestations
 - [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
+
+### Loopring
+- Exchange protocol using ZK Rollup
+- [Loopring](https://loopring.org/#/)
+- [Overview](https://loopring.readthedocs.io/en/latest/English/overview/)
+- [2020 Roadmap](https://loopring.org/#/post/loopring-2020-development-roadmap)
 
 ### Plasma Chamber
 - OVM over Plasma Cashflow
@@ -213,6 +214,13 @@ over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 ## What's Happening?
 
 Recently not enough information, GitHub updates, etc. to determine status
+
+### Loom Network
+- "Looks like the Loom Network has thrown in the towel" - 5/20/2020 [CoinTelegraph article](https://cointelegraph.com/news/looks-like-the-loom-network-has-thrown-in-the-towel)
+- "We haven't gone anywhere, and the chain is still operational." - 5/20/2020 [Tweet from @LoomNetwork](https://twitter.com/loomnetwork/status/1259328823218192385)
+- [Loom Network](https://loomx.io)
+- [Overview](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
+- [Loom.js](https://github.com/loomnetwork/loom-js) - for building browser apps & services that interact with Loom DAppChains 
 
 ### TrueBit
 - [An Introduction to TrueBit](https://medium.com/@simondlr/an-intro-to-truebit-a-scalable-decentralized-computational-court-1475531400c3)
