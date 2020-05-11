@@ -94,7 +94,7 @@ The Execution Environments, operating within shards, will be able to transact se
 
 **Two-way Bridges Between Eth1 and Eth2**
 - [EthResearch discussions about the Eth1-Eth2 Transition](https://ethresear.ch/c/eth1-to-eth2-transition/38)
-- [Proposal by Vitalik Buterin](https://ethresear.ch/t/two-way-bridges-between-eth1-and-eth2/6286) - EthResearch discussion
+- [Two-way bridges between eth1 and eth2](https://ethresear.ch/t/two-way-bridges-between-eth1-and-eth2/6286) - proposal and EthResearch discussion
 
 
 ### Polkadot
