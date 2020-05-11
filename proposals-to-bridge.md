@@ -32,9 +32,12 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 ### Matic Swaps
 
+Note: this solution is based on the ["More Viable Plasma"](https://ethresear.ch/t/more-viable-plasma/2160) protocol. All Plasma protocol implementations are bridged to an Ethereum blockchain, but have a lengthily challenge period. 
+
 "The construction includes introduction of a new method in each associated asset contract - ERC721 and ERC20 on matic plasma chain, called transferWithSig."
 - [GitHub repo](https://github.com/nglglhtr/asset-swap-tutorial)
 - [Documentation](https://docs.matic.network/docs/develop/advanced/swap-assets)
+- [Description of mapping of assets from Eth1 to Matic Network](https://docs.matic.network/docs/develop/advanced/mapping-assets)
 
 ### Baseline Protocol
 
