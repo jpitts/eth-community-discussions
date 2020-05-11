@@ -16,7 +16,13 @@ This document outlines solutions and discussions about bridging.
 
 "The construction includes introduction of a new method in each associated asset contract - ERC721 and ERC20 on matic plasma chain, called transferWithSig."
 - [GitHub repo](https://github.com/nglglhtr/asset-swap-tutorial)
-- [documentation](https://docs.matic.network/docs/develop/advanced/swap-assets)
+- [Documentation](https://docs.matic.network/docs/develop/advanced/swap-assets)
+
+### Baseline Protocol
+
+"The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain."
+- [GitHub repo](https://github.com/ethereum-oasis/baseline)
+- [Documentation](https://docs.baseline-protocol.org/)
 
 ### Loom Interop
 - [Announcement of Ethereum, EOS, TRON interop solution](https://medium.com/loom-network/connecting-ethereum-eos-and-tron-making-blockchain-interoperability-a-reality-e5ef6c67716)
@@ -114,10 +120,9 @@ The Cosmos hub connects to zones via IBC (inter-blockchain communication) protoc
 
 ## Writings and Discussions
 
-[Atomic Crosschain Transactions for Ethereum
-Private Sidechains]() - ConsenSys / PegaSys, School of Information Technology and Electrical Engineering, University of Queensland, Australia
+[Atomic Crosschain Transactions for Ethereum Private Sidechains](https://arxiv.org/pdf/1904.12079.pdf) - paper from ConsenSys / PegaSys, School of Information Technology and Electrical Engineering, University of Queensland, Australia
 
-[https://arxiv.org/pdf/1801.09515.pdf](Atomic Cross-Chain Swaps) - July 2018 paper by Maurice Herlihy
+[Atomic Cross-Chain Swaps](https://arxiv.org/pdf/1801.09515.pdf) - July 2018 paper by Maurice Herlihy
 
 [Is it possible to make atomic swap between Ethereum and POS chain?](https://ethresear.ch/t/is-it-possible-to-make-atomic-swap-between-ethereum-and-pos-chain/5051/2) - EthResearch discussion
 
