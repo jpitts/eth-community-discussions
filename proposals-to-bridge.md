@@ -83,6 +83,7 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 The Execution Environments, operating within shards, will be able to transact seamlessly.
 
 [Cross-shard DeFi composability](https://ethresear.ch/t/cross-shard-defi-composability/6268) - classic post/discussion on the issue by Vitalik Buterin
+
 [How can we facilitate cross-shard communication?](https://github.com/ethereum/wiki/wiki/Sharding-FAQ#how-can-we-facilitate-cross-shard-communication) - Sharding PAQ
 
 **Two-way Bridges Between Eth1 and Eth2**
