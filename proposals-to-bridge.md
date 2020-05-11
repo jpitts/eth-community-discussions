@@ -1,4 +1,4 @@
-# Bridging To & From Ethereum
+# Bridging To & From Ethereum mainnet
 
 This document outlines solutions and discussions about bridging. Mostly focusing on bridging Ethereum mainnet to side-chains, or Ethereum mainnet to other major chains.
 
