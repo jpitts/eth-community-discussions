@@ -4,6 +4,8 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 ## Writings and Discussions
 
+[Two-way bridges between eth1 and eth2](https://ethresear.ch/t/two-way-bridges-between-eth1-and-eth2/6286)
+
 [Trustless Two-Way Bridges With Side Chains By Halting](https://ethresear.ch/t/trustless-two-way-bridges-with-side-chains-by-halting/5728) - very good overview of techniques (and interesting proposal) by @adlerjohn, @matt, @mikerah, and @villanuevawill
 
 [Plasma Bridge – connecting two Layer-1 chains with a plasma chain](https://ethresear.ch/t/plasma-bridge-connecting-two-layer-1-chains-with-a-plasma-chain/2890) - EthResearch discussion
@@ -85,7 +87,7 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 
 ### Eth2
 
-The Execution Environments, operating within shards, will be able to transact seamlessly.
+The Execution Environments, operating within shards, will be able to transact seamlessly. The Eth1 staking mechanism for Eth2 validators is actually a bridge! There are also proposals to bridge between Eth2 and Eth1 (which will continue to function within / as a shard).
 
 [Cross-shard DeFi composability](https://ethresear.ch/t/cross-shard-defi-composability/6268) - classic post/discussion on the issue by Vitalik Buterin
 
