@@ -112,11 +112,16 @@ The Cosmos hub connects to zones via IBC (inter-blockchain communication) protoc
 
 ---
 
-## Discussions
+## Writings and Discussions
 
-[Is it possible to make atomic swap between Ethereum and POS chain?](https://ethresear.ch/t/is-it-possible-to-make-atomic-swap-between-ethereum-and-pos-chain/5051/2) - ethresearch discussion
+[Atomic Crosschain Transactions for Ethereum
+Private Sidechains]() - ConsenSys / PegaSys, School of Information Technology and Electrical Engineering, University of Queensland, Australia
 
-[Plasma Bridge – connecting two Layer-1 chains with a plasma chain](https://ethresear.ch/t/plasma-bridge-connecting-two-layer-1-chains-with-a-plasma-chain/2890) - ethresearch discussion
+[https://arxiv.org/pdf/1801.09515.pdf](Atomic Cross-Chain Swaps) - July 2018 paper by Maurice Herlihy
+
+[Is it possible to make atomic swap between Ethereum and POS chain?](https://ethresear.ch/t/is-it-possible-to-make-atomic-swap-between-ethereum-and-pos-chain/5051/2) - EthResearch discussion
+
+[Plasma Bridge – connecting two Layer-1 chains with a plasma chain](https://ethresear.ch/t/plasma-bridge-connecting-two-layer-1-chains-with-a-plasma-chain/2890) - EthResearch discussion
 
 ---
 
