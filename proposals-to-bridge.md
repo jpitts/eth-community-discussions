@@ -4,9 +4,11 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 ## Writings and Discussions
 
-[Two-way bridges between eth1 and eth2](https://ethresear.ch/t/two-way-bridges-between-eth1-and-eth2/6286)
-
 [Trustless Two-Way Bridges With Side Chains By Halting](https://ethresear.ch/t/trustless-two-way-bridges-with-side-chains-by-halting/5728) - very good overview of techniques (and interesting proposal) by @adlerjohn, @matt, @mikerah, and @villanuevawill
+
+[Common Interoperability Approaches](https://github.com/renproject/ren/wiki/Interoperability) - Ren documentation which also covers the common approaches of Atomic Swaps, Native Interoperability, Synthetics, and Multi-sigs
+
+[Two-way bridges between eth1 and eth2](https://ethresear.ch/t/two-way-bridges-between-eth1-and-eth2/6286)
 
 [Plasma Bridge – connecting two Layer-1 chains with a plasma chain](https://ethresear.ch/t/plasma-bridge-connecting-two-layer-1-chains-with-a-plasma-chain/2890) - EthResearch discussion
 
@@ -20,7 +22,7 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 [Is it possible to make atomic swap between Ethereum and POS chain?](https://ethresear.ch/t/is-it-possible-to-make-atomic-swap-between-ethereum-and-pos-chain/5051/2) - EthResearch discussion
 
-## Solutions
+## Interop between Ethereum mainnet and side-chains
 
 ### POA Network Bridge
 
@@ -65,7 +67,21 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 - [Update about atomic swals and plasma](https://blog.altcoin.io/august-update-mobile-ux-atomic-swaps-and-plasma-dex-v2-94680ff9db30) - 9/18/2018 
 
 
-## Atomic Swaps between major blockchains
+## Interop between major blockchains
+
+### Ren
+
+"Open protocol that provides access to inter-blockchain liquidity for all decentralized applications. RenVM uses secret computation/storage to implement general purpose interoperability between new and existing blockchains. It defines special 'secret contracts' that can be used to send digital assets, and generic data, from one blockchain to another."
+
+- [Website](https://renproject.io/)
+- [GitHub repo](https://github.com/renproject/ren)
+- [RenVM Overview](https://medium.com/renproject/how-renvm-actually-works-c2f76a2630c4)
+- [RenVM Documentation](https://github.com/renproject/ren/wiki/Introduction)
+
+### ChainSafe ChainBridge
+
+- [Announcement](https://medium.com/chainsafe-systems/chainsafe-building-chainbridge-49d51ff2e0a2)
+- [GitHub repo](https://github.com/ChainSafe/ChainBridge)
 
 ### dogethereum
 
@@ -88,7 +104,7 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 - [Overview Blog Post](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/)
 
 
-## Blockchains oriented toward interop
+## Major blockchains which are oriented toward interop
 
 ### Eth2
 
