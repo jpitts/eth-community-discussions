@@ -2,6 +2,13 @@
 
 This document outlines solutions and discussions about bridging. Mostly focusing on bridging Ethereum mainnet to side-chains, or Ethereum mainnet to other major chains.
 
+> I spent 2 yrs analyzing Bitcoin's code until I felt confident to hold btc. I Found 8 vulns along the way. 
+> A bridge contract is the most adversarial scenario: open code, no upgrade, unlocking tokens for people that usually don't know the risks. 
+> Even a blockchain is easier to fix
+> 
+> - [Sergio Demian Lerner on May 18, 2020](https://twitter.com/SDLerner/status/1262436758828003329)
+
+
 ## Writings and Discussions
 
 [Trustless Two-Way Bridges With Side Chains By Halting](https://ethresear.ch/t/trustless-two-way-bridges-with-side-chains-by-halting/5728) - very good overview of techniques (and interesting proposal) by @adlerjohn, @matt, @mikerah, and @villanuevawill
@@ -68,6 +75,14 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 
 
 ## Interop between major blockchains
+
+### tBTC
+
+"tBTC is a sidechain designed to allow BTC holders a way to earn yield with their Bitcoin trustlessly, using decentralized finance (DeFi) applications. TBTC is an ERC-20 token that is minted when a user provides proof of their BTC deposit. A TDT is a non-fungible ERC-721 token (NFT) that represents a claim to a deposit’s underlying UTXO on the Bitcoin blockchain. Because TBTC is interchangeable with TDT, they can be considered two states of the same fundamental asset."
+
+- [Website](https://tbtc.network/)
+- [Overview](https://tbtc.network/news/2020-05-06-3-in-1-how-tbtc-is-erc-20-erc-721-and-stablecoin/)
+- [Specification](https://docs.keep.network/tbtc/index.pdf)
 
 ### Ren
 
