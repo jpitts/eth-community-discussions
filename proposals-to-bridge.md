@@ -6,7 +6,7 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 > A bridge contract is the most adversarial scenario: open code, no upgrade, unlocking tokens for people that usually don't know the risks. 
 > Even a blockchain is easier to fix
 > 
-> - [Sergio Demian Lerner on May 18, 2020](https://twitter.com/SDLerner/status/1262436758828003329)
+> [Sergio Demian Lerner, May 18, 2020](https://twitter.com/SDLerner/status/1262436758828003329)
 
 
 ## Writings and Discussions
