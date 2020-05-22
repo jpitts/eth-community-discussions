@@ -29,6 +29,8 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 [Is it possible to make atomic swap between Ethereum and POS chain?](https://ethresear.ch/t/is-it-possible-to-make-atomic-swap-between-ethereum-and-pos-chain/5051/2) - EthResearch discussion
 
+[Succinct Atomic Swap](https://gist.github.com/RubenSomsen/8853a66a64825716f51b409be528355f) and [diagram](https://gist.github.com/RubenSomsen/8853a66a64825716f51b409be528355f#file-succinctatomicswap-svg) - a proposal by Ruben Somsen
+
 ## Interop between Ethereum mainnet and side-chains
 
 ### POA Network Bridge
