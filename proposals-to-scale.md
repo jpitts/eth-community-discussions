@@ -123,6 +123,11 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - [Fuel Labs](https://fuel.sh/)
 - [Overview of beta / testnet](https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3)
 
+### Tiramisu
+- Optimistic Rollups
+- [Project Repo](https://github.com/dharma-eng/Tiramisu)
+- [Overview / design principles](https://github.com/dharma-eng/Tiramisu/blob/master/docs/README.md#overview)
+
 ---
 
 ## Recently Reoriented
