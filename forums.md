@@ -64,6 +64,9 @@
 
 ## Firms, Foundations, Funding Sources, Projects
 
+**Solidity**
+- [solidity-users](https://groups.google.com/forum/#!forum/solidity-users)
+
 **Status**
 - [discuss.status.im](https://discuss.status.im/)
 
