@@ -92,11 +92,6 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
-### ThunderCore
-- [Website](https://www.thundertoken.com/)
-- [Thunderella paper](https://eprint.iacr.org/2017/913.pdf) by Elaine Shi and Rafael Pass
-- [PAXOS algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
-
 ---
 
 ## Under Development / Testnets
@@ -105,6 +100,7 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 
 ### Eth2 Phase 0
 - Phase 0 is the Beacon chain, used for protocol attestations
+- Will be useful because it can support solutions based on Optimistic Rollups
 - [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
 
 ### Loopring
@@ -127,6 +123,11 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Optimistic Rollups
 - [Project Repo](https://github.com/dharma-eng/Tiramisu)
 - [Overview / design principles](https://github.com/dharma-eng/Tiramisu/blob/master/docs/README.md#overview)
+
+### Plasm
+- OVM on Substrate / Polkadot
+- [Project Repo](https://github.com/staketechnologies/Plasm)
+- [White Paper](https://github.com/staketechnologies/plasmdocs/blob/master/wp/en.pdf)
 
 ---
 
@@ -219,6 +220,11 @@ over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 ## What's Happening?
 
 Recently not enough information, GitHub updates, etc. to determine status
+
+### ThunderCore
+- [Website](https://www.thundertoken.com/)
+- [Thunderella paper](https://eprint.iacr.org/2017/913.pdf) by Elaine Shi and Rafael Pass
+- [PAXOS algorithm](https://en.wikipedia.org/wiki/Paxos_(computer_science))
 
 ### Loom Network
 - "Looks like the Loom Network has thrown in the towel" - 5/20/2020 [CoinTelegraph article](https://cointelegraph.com/news/looks-like-the-loom-network-has-thrown-in-the-towel)
