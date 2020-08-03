@@ -93,6 +93,22 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
 ---
+### Reddit's Scaling Bake-off Submissions
+
+[NEAR Protocol team submission](https://www.reddit.com/r/ethereum/comments/i1b4b3/nears_submission_to_reddits_scaling_bakeoff/)
+
+[Raiden team submission](https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/fzwd8o3/)
+
+[OMG Network team submission](https://www.reddit.com/r/ethereum/comments/i19us9/omg_networks_great_reddit_scaling_bakeoff_proposal/)
+
+[Fuel Labs team submission](https://www.reddit.com/r/ethereum/comments/i1cimc/the_great_reddit_scaling_bakeoff_submission_by/)
+
+[Celer Network team submission](https://www.reddit.com/r/ethereum/comments/i2hx80/celer_joins_reddit_great_scaling_bakeoff_exactly/)
+
+[Connect / Spacefold team submission](https://www.reddit.com/r/ethereum/comments/i1eooc/spacefold_connexts_submission_to_the_great_reddit/)
+
+
+---
 
 ## Under Development / Testnets
 
