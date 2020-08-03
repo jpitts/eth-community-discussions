@@ -33,13 +33,12 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 ## Interop between Ethereum mainnet and side-chains
 
-### POA Network Bridge
+### Connext Spacefold
 
-- [Introducing the ERC20 to ERC20 TokenBridge](https://medium.com/poa-network/introducing-the-erc20-to-erc20-tokenbridge-ce266cc1a2d0) (also supports "Arbitrary-Message" / arbitrary contract method invocation)
-- [TokenBridge GitHub repo](https://github.com/poanetwork/tokenbridge)
-- [Documentation](https://docs.tokenbridge.net/)
-- [Related Forum Discussions](https://forum.poa.network/c/tokenbridge/25)
-- older/deprecated [POABridge GitHub repo](https://github.com/poanetwork/poa-bridge)
+"Spacefold demonstrates how Connext can be used to build an internet-of-l2-chains/shards. Users can instantly and seamlessly transfer value between chains/shards, and eventually even make atomic cross-chain contract calls. Most importantly, this can happen in a way where users dont need to know what chain/rollup/shard they are on to begin with."
+
+- [GitHub repo](https://github.com/connext/spacefold)
+- [Demo / website](https://www.spacefold.io/)
 
 ### Matic Swaps
 
@@ -55,9 +54,6 @@ Note: this solution is based on the ["More Viable Plasma"](https://ethresear.ch/
 "The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain."
 - [GitHub repo](https://github.com/ethereum-oasis/baseline)
 - [Documentation](https://docs.baseline-protocol.org/)
-
-### Loom Interop
-- [Announcement of Ethereum, EOS, TRON interop solution](https://medium.com/loom-network/connecting-ethereum-eos-and-tron-making-blockchain-interoperability-a-reality-e5ef6c67716)
 
 ### OpenST Mosaic
 - [GitHub repo](https://github.com/OpenST/mosaic-contracts)
@@ -162,6 +158,20 @@ The Cosmos hub connects to zones via IBC (inter-blockchain communication) protoc
 - [reddit discussion](https://www.reddit.com/r/AionNetwork/comments/8gkam6/what_makes_aions_token_swap_with_ethereum_so/dycztsj/)
 - [Alpha release Blog Post](https://blog.aion.network/aion-token-bridge-alpha-version-2d3655d9d861)
 
+## What's Happening?
+
+Recently not enough information, GitHub updates, etc. to determine status
+
+### POA Network Bridge
+
+- [Introducing the ERC20 to ERC20 TokenBridge](https://medium.com/poa-network/introducing-the-erc20-to-erc20-tokenbridge-ce266cc1a2d0) (also supports "Arbitrary-Message" / arbitrary contract method invocation)
+- [TokenBridge GitHub repo](https://github.com/poanetwork/tokenbridge)
+- [Documentation](https://docs.tokenbridge.net/)
+- [Related Forum Discussions](https://forum.poa.network/c/tokenbridge/25)
+- older/deprecated [POABridge GitHub repo](https://github.com/poanetwork/poa-bridge)
+
+### Loom Interop
+- [Announcement of Ethereum, EOS, TRON interop solution](https://medium.com/loom-network/connecting-ethereum-eos-and-tron-making-blockchain-interoperability-a-reality-e5ef6c67716)
 
 ## Defunct Projects
 
