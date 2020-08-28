@@ -49,6 +49,14 @@ Note: this solution is based on the ["More Viable Plasma"](https://ethresear.ch/
 - [Documentation](https://docs.matic.network/docs/develop/advanced/swap-assets)
 - [Description of mapping of assets from Eth1 to Matic Network](https://docs.matic.network/docs/develop/advanced/mapping-assets)
 
+### POA TokenBridge
+
+- [Documentation](https://docs.tokenbridge.net/)
+- [GitHub repo](https://github.com/poanetwork/tokenbridge)
+- [Introducing the ERC20 to ERC20 TokenBridge](https://medium.com/poa-network/introducing-the-erc20-to-erc20-tokenbridge-ce266cc1a2d0) (also supports "Arbitrary-Message" / arbitrary contract method invocation)
+- [Related Forum Discussions](https://forum.poa.network/c/tokenbridge/25)
+- older/deprecated [POABridge GitHub repo](https://github.com/poanetwork/poa-bridge)
+
 ### Baseline Protocol
 
 "The Baseline Protocol is an open source initiative that combines advances in cryptography, messaging, and blockchain to execute secure and private business processes at low cost via the public Ethereum Mainnet. The protocol will enable confidential and complex collaboration between enterprises without leaving any sensitive data on-chain."
@@ -74,7 +82,7 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 
 ## Interop between major blockchains
 
-### tBTC
+### tBTC - bridge to Bitcoin
 
 "tBTC is a sidechain designed to allow BTC holders a way to earn yield with their Bitcoin trustlessly, using decentralized finance (DeFi) applications. TBTC is an ERC-20 token that is minted when a user provides proof of their BTC deposit. A TDT is a non-fungible ERC-721 token (NFT) that represents a claim to a deposit’s underlying UTXO on the Bitcoin blockchain. Because TBTC is interchangeable with TDT, they can be considered two states of the same fundamental asset."
 
@@ -82,7 +90,7 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 - [Overview](https://tbtc.network/news/2020-05-06-3-in-1-how-tbtc-is-erc-20-erc-721-and-stablecoin/)
 - [Specification](https://docs.keep.network/tbtc/index.pdf)
 
-### Ren
+### REN - bridge to Bitcoin
 
 "Open protocol that provides access to inter-blockchain liquidity for all decentralized applications. RenVM uses secret computation/storage to implement general purpose interoperability between new and existing blockchains. It defines special 'secret contracts' that can be used to send digital assets, and generic data, from one blockchain to another."
 
@@ -91,10 +99,16 @@ DEX in which "developers can lock ether tokens in an Ethereum smart contract tha
 - [RenVM Overview](https://medium.com/renproject/how-renvm-actually-works-c2f76a2630c4)
 - [RenVM Documentation](https://github.com/renproject/ren/wiki/Introduction)
 
-### ChainSafe ChainBridge
+### ChainSafe ChainBridge - bridge to Cosmos
 
 - [Announcement](https://medium.com/chainsafe-systems/chainsafe-building-chainbridge-49d51ff2e0a2)
 - [GitHub repo](https://github.com/ChainSafe/ChainBridge)
+- Ethermint network [website](https://ethermint.zone/) / [GitHub repo](https://github.com/ChainSafe/ethermint)
+
+### Snowfork - bridge to Polkadot
+
+- [Overview](https://snowfork.substack.com/p/a-trustless-general-purpose-polkadot)
+- [Website](http://www.snowfork.com/)
 
 ### dogethereum
 
@@ -161,14 +175,6 @@ The Cosmos hub connects to zones via IBC (inter-blockchain communication) protoc
 ## What's Happening?
 
 Recently not enough information, GitHub updates, etc. to determine status
-
-### POA Network Bridge
-
-- [Introducing the ERC20 to ERC20 TokenBridge](https://medium.com/poa-network/introducing-the-erc20-to-erc20-tokenbridge-ce266cc1a2d0) (also supports "Arbitrary-Message" / arbitrary contract method invocation)
-- [TokenBridge GitHub repo](https://github.com/poanetwork/tokenbridge)
-- [Documentation](https://docs.tokenbridge.net/)
-- [Related Forum Discussions](https://forum.poa.network/c/tokenbridge/25)
-- older/deprecated [POABridge GitHub repo](https://github.com/poanetwork/poa-bridge)
 
 ### Loom Interop
 - [Announcement of Ethereum, EOS, TRON interop solution](https://medium.com/loom-network/connecting-ethereum-eos-and-tron-making-blockchain-interoperability-a-reality-e5ef6c67716)
