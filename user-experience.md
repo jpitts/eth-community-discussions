@@ -1,5 +1,15 @@
 # User Experience Resources
 
+## Proof of Usability, a podcast by Zach Herring
+
+"Join Zach Herring and guests across the Web3 & blockchain space to discuss blockchain and what goes into designing decentralized products in the first place."
+
+[Anchor.fm](https://anchor.fm/z-herring/)
+|
+[Spotify](https://open.spotify.com/show/54Q64wUsT6DfDiS6czTCgX)
+|
+[Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNDg3OWE1NC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwi9g-_929zrAhUJzp4KHWqtDEYQ4aUDegQIARAC&hl=en)
+
 ## [Perception of the Ethereum UX](https://medium.com/metacartel/perception-of-the-ethereum-ux-d39b89da0008) by Lili Feyerabend
 
 The survey was divided into five sections:
