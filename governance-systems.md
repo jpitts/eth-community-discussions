@@ -49,7 +49,7 @@ The Kelsen framework allows the construction of governance systems on Ethereum. 
 
 Snapshot is an off-chain gasless multi-governance client with easy to verify and hard to contest results. Developed at Balancer Labs.
 
-- [GitHub](https://github.com/balancer-labs/snapshot)
+- [Twitter](https://twitter.com/SnapshotLabs), [GitHub](https://github.com/balancer-labs/snapshot)
 - [Documentation](https://docs.snapshot.page/)
 - [Overview](https://aragon.org/blog/snapshot) - by Jorge Izquierdo at Aragon One
 - [dapp](https://snapshot.page/#/)
@@ -65,4 +65,8 @@ Off and on-chain legal entities.
 
 ### Kleros
 
+Decentralized Courts: An open online dispute resolution platform bringing justice for all.
+
+- [Website](https://kleros.io/), [Twitter](https://twitter.com/Kleros_io), [GitHub](https://github.com/kleros)
+- [White Paper](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf) [Yellow Paper](https://kleros.io/static/yellowpaper_en-28d8e155664f3f21578958a482f33bd1.pdf), [Documentation](https://developer.kleros.io/en/latest/)
 
