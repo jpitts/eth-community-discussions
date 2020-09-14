@@ -54,12 +54,6 @@ Snapshot is an off-chain gasless multi-governance client with easy to verify and
 - [Overview](https://aragon.org/blog/snapshot) - by Jorge Izquierdo at Aragon One
 - [dapp](https://snapshot.page/#/)
 
-## Ontonomous
-
-Off and on-chain legal entities.
-
-- [Website](https://otonomos.com), [Twitter](https://twitter.com/otonomos), GitHub ??
-
 
 ## Related Infrastructure
 
@@ -69,4 +63,10 @@ Decentralized Courts: An open online dispute resolution platform bringing justic
 
 - [Website](https://kleros.io/), [Twitter](https://twitter.com/Kleros_io), [GitHub](https://github.com/kleros)
 - [White Paper](https://kleros.io/static/whitepaper_en-8bd3a0480b45c39899787e17049ded26.pdf) [Yellow Paper](https://kleros.io/static/yellowpaper_en-28d8e155664f3f21578958a482f33bd1.pdf), [Documentation](https://developer.kleros.io/en/latest/)
+
+## Ontonomous
+
+Off and on-chain legal entities.
+
+- [Website](https://otonomos.com), [Twitter](https://twitter.com/otonomos), GitHub ??
 
