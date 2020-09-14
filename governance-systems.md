@@ -50,6 +50,7 @@ The Kelsen framework allows the construction of governance systems on Ethereum. 
 Snapshot is an off-chain gasless multi-governance client with easy to verify and hard to contest results. Developed at Balancer Labs.
 
 - [GitHub](https://github.com/balancer-labs/snapshot)
+- [Documentation](https://docs.snapshot.page/)
 - [Overview](https://aragon.org/blog/snapshot) - by Jorge Izquierdo at Aragon One
 - [dapp](https://snapshot.page/#/)
 
