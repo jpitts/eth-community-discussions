@@ -21,6 +21,12 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 [Scalability of Blockchains Summary of Knowledge](https://github.com/Mechanism-Labs/Summary-of-Knowledge-SoK-Scalability-of-Blockchains/tree/blockchain-stack) - Mechanism Labs paper under development
 
+## Ethereum Roadmap
+
+[A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) by Vitalik Buterin, Oct. 2020
+
+"the Ethereum ecosystem is likely to be all-in on rollups (plus some plasma and channels) as a scaling strategy for the near and mid-term future"
+
 ## General Strategies for Scaling the Ethereum Network
 
 0. Network Bifurcation — separate blockchains (strategies 1–5 directly involve the Ethereum blockchain)
@@ -49,27 +55,36 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 [Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
 
+### Loopring
+- Exchange protocol using ZK Rollup
+- [Loopring](https://loopring.org/#/)
+- [Overview](https://loopring.readthedocs.io/en/latest/English/overview/)
+- [2020 Roadmap](https://loopring.org/#/post/loopring-2020-development-roadmap)
+
+### zkSync
+- ZK Rollup
+- [zkSync](https://zksync.io/)
+- [Documentation](https://zksync.io/dev/)
+- [Overview](https://medium.com/matter-labs/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823)
+
+### SKALE
+- Plasma L2 with an EVM
+- [SKALE](https://skalelabs.com/)
+- [Why SKALE?](https://medium.com/skale/why-skale-de649cbf3ab9) - Overview
+
+### Matic Network
+- Plasma L2 w/ an EVM
+- [Matic Network](https://matic.network/)
+- [Matic 2019 Year In Review](https://medium.com/matic-network/year-in-review-2019-matic-network-aa47bf1b201b)
+
 ### Connext Network
 - State channels
 - [Connext Network](https://connext.network/)
 - [Overview of SpankChain live deployment](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
 - [Overview of v2.0 on mainnet](https://medium.com/connext/connext-v2-0-is-on-mainnet-b818864d3687)
 
-### POA Network
-- [POA Network](https://poa.network/)
-- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
-- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
-
-### SKALE
-- Plasma side-chain with an EVM
-- [SKALE](https://skalelabs.com/)
-- [Why SKALE?](https://medium.com/skale/why-skale-de649cbf3ab9) - Overview
-
-### Matic Network
-- [Matic Network](https://matic.network/)
-- [Matic 2019 Year In Review](https://medium.com/matic-network/year-in-review-2019-matic-network-aa47bf1b201b)
-
 ### Raiden Network
+- State Channels
 - [Description of the developer preview](https://raiden-network.readthedocs.io/en/stable/what_is_the_dev_preview.html)
 - [Overview](https://raiden.network/101.html)
 - [FAQ](https://raiden.network/faq.html)
@@ -80,13 +95,21 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Overview](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
 - [Introducing the Force-Move Games Framework](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f) - collaboration with Magmo
 
+### POA Network
+- Side Chain w/ an EVM
+- [POA Network](https://poa.network/)
+- [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
+- [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+
 ### Cosmos Hub
+- L1 w/ bridge to Ethereum mainnet
 - [Website](https://cosmos.network/intro/hub)
 - [Ethermint](https://ethermint.zone/) - under [active development](https://github.com/ChainSafe/ethermint) by ChainSafe
 - [Introducing the Ethereum Peg Zone](https://blog.cosmos.network/the-internet-of-blockchains-how-cosmos-does-interoperability-starting-with-the-ethereum-peg-zone-8744d4d2bc3f)
 - [The Shanghai Accord - Ethereum Scaling Agreement](https://blog.cosmos.network/the-shanghai-accord-ethereum-scaling-agreement-via-cosmos-at-wanxiang-global-blockchain-summit-354efa27b158)
 
 ### Polkadot
+- L1 w/ bridge to Ethereum mainnet
 - [An Introduction to Polkadot](https://blog.stephantual.com/web-three-revisited-part-two-introduction-to-polkadot-what-it-is-what-it-aint-657782051d34)
 - [Website](https://polkadot.network/)
 - [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
@@ -118,12 +141,6 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Phase 0 is the Beacon chain, used for protocol attestations
 - Will be useful because it can support solutions based on Optimistic Rollups
 - [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
-
-### Loopring
-- Exchange protocol using ZK Rollup
-- [Loopring](https://loopring.org/#/)
-- [Overview](https://loopring.readthedocs.io/en/latest/English/overview/)
-- [2020 Roadmap](https://loopring.org/#/post/loopring-2020-development-roadmap)
 
 ### Plasma Chamber
 - OVM over Plasma Cashflow
