@@ -115,21 +115,6 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [Polkadot Paper](https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf)(PDF)
 - [Now Live: Polkadot POC](https://medium.com/@polkadotnetwork/now-live-polkadot-proof-of-concept-1-3e718512a8d)
 
----
-### Reddit's Scaling Bake-off Submissions
-
-[NEAR Protocol team submission](https://www.reddit.com/r/ethereum/comments/i1b4b3/nears_submission_to_reddits_scaling_bakeoff/)
-
-[Raiden team submission](https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/fzwd8o3/)
-
-[OMG Network team submission](https://www.reddit.com/r/ethereum/comments/i19us9/omg_networks_great_reddit_scaling_bakeoff_proposal/)
-
-[Fuel Labs team submission](https://www.reddit.com/r/ethereum/comments/i1cimc/the_great_reddit_scaling_bakeoff_submission_by/)
-
-[Celer Network team submission](https://www.reddit.com/r/ethereum/comments/i2hx80/celer_joins_reddit_great_scaling_bakeoff_exactly/)
-
-[Connect / Spacefold team submission](https://www.reddit.com/r/ethereum/comments/i1eooc/spacefold_connexts_submission_to_the_great_reddit/)
-
 
 ---
 
@@ -147,7 +132,7 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - [Optimism](https://optimism.io/)
 - [OVM deep-dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52)
 
-## Hermez
+### Hermez
 - ZK Rollups
 - [Hermez](https://hermez.io/)
 - [White Paper](https://hermez.io/hermez-whitepaper.pdf)
@@ -171,27 +156,6 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - OVM on Substrate / Polkadot
 - [Project Repo](https://github.com/staketechnologies/Plasm)
 - [White Paper](https://github.com/staketechnologies/plasmdocs/blob/master/wp/en.pdf)
-
----
-
-## Recently Reoriented
-
-### LeapDAO / Plasma
-- A set of NFTs represents verifiable EVM state transitions, enabling the EVM to "leap" into Plasma 
-- [Plasma Leap white paper](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8/edit#heading=h.krdzwa9n8mii)
-- [Documentation](https://docs.leapdao.org)
-- [Announcement of reorientation](http://ipfs.leapdao.org/blog/mainnet-shutdown) - moving toward ORUs and ZK-rollups
-
-### Matter Labs / Plasma
-- SNARKs-driven Plasma
-- [Matter Labs](https://matter-labs.io/)
-- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
-- [Announcement of reorientation](https://medium.com/matter-labs/software-engineering-jobs-at-matter-labs-c456d01b2a02) - moved toward ZK-rollups
-
-### Plasma Group
-- generalized framework for all Plasma types
-- [Documentation](https://docs.plasma.group/projects/spec/en/latest/)
-- [Announcement of reorientation](https://medium.com/plasma-group/on-to-new-beginnings-e9d76b170752) - moved toward ORUs, group is re-named to Optimism
 
 ---
 
@@ -252,11 +216,46 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 over Cryptographic Currencies](https://eprint.iacr.org/2017/635.pdf) (PDF)
 - [Foundations of State Channel Networks](https://eprint.iacr.org/2018/320.pdf) (PDF)
 
+---
 
+## Reddit's Scaling Bake-off Submissions
+
+[NEAR Protocol team submission](https://www.reddit.com/r/ethereum/comments/i1b4b3/nears_submission_to_reddits_scaling_bakeoff/)
+
+[Raiden team submission](https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/fzwd8o3/)
+
+[OMG Network team submission](https://www.reddit.com/r/ethereum/comments/i19us9/omg_networks_great_reddit_scaling_bakeoff_proposal/)
+
+[Fuel Labs team submission](https://www.reddit.com/r/ethereum/comments/i1cimc/the_great_reddit_scaling_bakeoff_submission_by/)
+
+[Celer Network team submission](https://www.reddit.com/r/ethereum/comments/i2hx80/celer_joins_reddit_great_scaling_bakeoff_exactly/)
+
+[Connect / Spacefold team submission](https://www.reddit.com/r/ethereum/comments/i1eooc/spacefold_connexts_submission_to_the_great_reddit/)
 
 ---
 
-## What's Happening?
+## Recently Reoriented
+
+### LeapDAO / Plasma
+- A set of NFTs represents verifiable EVM state transitions, enabling the EVM to "leap" into Plasma 
+- [Plasma Leap white paper](https://docs.google.com/document/d/1vStTjqvqZGyiI5AVtpwCIMlHFnzC_4bbixsCfs27-M8/edit#heading=h.krdzwa9n8mii)
+- [Documentation](https://docs.leapdao.org)
+- [Announcement of reorientation](http://ipfs.leapdao.org/blog/mainnet-shutdown) - moving toward ORUs and ZK-rollups
+
+### Matter Labs / Plasma
+- SNARKs-driven Plasma
+- [Matter Labs](https://matter-labs.io/)
+- [Introducing Matter testnet](https://medium.com/matter-labs/introducing-matter-testnet-502fab5a6f17)
+- [Announcement of reorientation](https://medium.com/matter-labs/software-engineering-jobs-at-matter-labs-c456d01b2a02) - moved toward ZK-rollups
+
+### Plasma Group
+- generalized framework for all Plasma types
+- [Documentation](https://docs.plasma.group/projects/spec/en/latest/)
+- [Announcement of reorientation](https://medium.com/plasma-group/on-to-new-beginnings-e9d76b170752) - moved toward ORUs, group is re-named to Optimism
+
+---
+
+## Abandoned / What's Happening?
 
 Recently not enough information, GitHub updates, etc. to determine status
 
