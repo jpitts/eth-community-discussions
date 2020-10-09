@@ -142,10 +142,15 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Will be useful because it can support solutions based on Optimistic Rollups
 - [Phase 0 Specification](https://github.com/ethereum/eth2.0-specs) and [Implementations](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/) 
 
-### Plasma Chamber
-- OVM over Plasma Cashflow
-- [Cryptoeconomics Lab's Plasma Chamber](https://www.cryptoeconomicslab.com)
-- [Overview](https://github.com/cryptoeconomicslab/plasma-chamber) and [Documentation](https://github.com/cryptoeconomicslab/plasma-chamber/wiki)
+### Optimism
+- Optimistic Rollups w/ EVM
+- [Optimism](https://optimism.io/)
+- [OVM deep-dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52)
+
+## Hermez
+- ZK Rollups
+- [Hermez](https://hermez.io/)
+- [White Paper](https://hermez.io/hermez-whitepaper.pdf)
 
 ### Fuel Labs
 - Optimistic Rollups
@@ -156,6 +161,11 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Optimistic Rollups
 - [Project Repo](https://github.com/dharma-eng/Tiramisu)
 - [Overview / design principles](https://github.com/dharma-eng/Tiramisu/blob/master/docs/README.md#overview)
+
+### Plasma Chamber
+- OVM over Plasma Cashflow
+- [Cryptoeconomics Lab's Plasma Chamber](https://www.cryptoeconomicslab.com)
+- [Overview](https://github.com/cryptoeconomicslab/plasma-chamber) and [Documentation](https://github.com/cryptoeconomicslab/plasma-chamber/wiki)
 
 ### Plasm
 - OVM on Substrate / Polkadot
@@ -200,10 +210,6 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - "standard" state channels
 - [Nitro Protocol](https://protocol.statechannels.org)
 - [Documentation](https://protocol.statechannels.org/docs/state-channels/overview)
-
-### Optimism
-- Optimistic Rollups w/ EVM
-- [Optimism](https://optimism.io/)
 
 ### Smart Contracts and "compute" in Filecoin
 - [Filecoin WP - July 19, 2017](https://filecoin.io/filecoin.pdf) @ Section 7.1 "Contracts in Filecoin"
