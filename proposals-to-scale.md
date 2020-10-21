@@ -27,6 +27,8 @@ Ethereum community proposals to scale, background on scaling in the tech industr
 
 "the Ethereum ecosystem is likely to be all-in on rollups (plus some plasma and channels) as a scaling strategy for the near and mid-term future"
 
+[Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
+
 ## General Strategies for Scaling the Ethereum Network
 
 0. Network Bifurcation — separate blockchains (strategies 1–5 directly involve the Ethereum blockchain)
@@ -49,33 +51,40 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 ---
 
-## Scaling Solutions Available Now
+## L2s and Side Chains Available Now
 
 [Spreadsheet summary of scaling solutions](https://docs.google.com/spreadsheets/d/1BQ0bK_LhSQvxtvXryVoIcmxeKMuVJCq6oD0aS5_hpC8/edit#gid=0) - organized by the Web3 Foundation / ScalingNOW initiative
 
-[Lets shard the blockchain using sidechains](https://medium.com/karachain/lets-shard-the-blockchain-using-sidechains-ea42d98b7b28) by Syed Jafar Naqvi
-
 ### Loopring
-- Exchange protocol using ZK Rollup
+- ZK Rollups
 - [Loopring](https://loopring.org/#/)
 - [Overview](https://loopring.readthedocs.io/en/latest/English/overview/)
 - [2020 Roadmap](https://loopring.org/#/post/loopring-2020-development-roadmap)
+- Deployed system is [Loopring](https://loopring.org/#/) itself
+
+### Starkware
+- ZK Rollups
+- [STARKEx](https://starkware.co/product/starkex/)
+- Deployed systems: [DeversiFi](https://www.deversifi.com/)
 
 ### zkSync
-- ZK Rollup
+- ZK Rollups
 - [zkSync](https://zksync.io/)
 - [Documentation](https://zksync.io/dev/)
 - [Overview](https://medium.com/matter-labs/zksync-is-live-bringing-trustless-scalable-payments-to-ethereum-9c634b3e6823)
+- Deployed systems: [zkSync Wallet](https://wallet.zksync.io/)
 
 ### SKALE
 - Plasma L2 with an EVM
 - [SKALE](https://skalelabs.com/)
 - [Why SKALE?](https://medium.com/skale/why-skale-de649cbf3ab9) - Overview
+- Deployed systems: 
 
 ### Matic Network
 - Plasma L2 w/ an EVM
 - [Matic Network](https://matic.network/)
 - [Matic 2019 Year In Review](https://medium.com/matic-network/year-in-review-2019-matic-network-aa47bf1b201b)
+- Deployed systems: [Quickswap](https://quickswap.exchange/#/swap)
 
 ### Connext Network
 - State channels
@@ -100,6 +109,11 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - [POA Network](https://poa.network/)
 - [Overview](https://github.com/poanetwork/wiki/wiki/What-is-POA)
 - [ScalingNOW! Interview 2: on Implementing Parity’s Bridge Chain Solution](https://medium.com/giveth/ethereum-dapp-scaling-poa-network-acee8a51e772) - with Igor & Roman from POA Network
+- Deployed systems: [xDAI Chain](https://www.xdaichain.com/), [Burner Wallet](https://xdai.io/)
+
+---
+
+## L1s that bridge to Ethereum mainnet
 
 ### Cosmos Hub
 - L1 w/ bridge to Ethereum mainnet
@@ -141,6 +155,11 @@ Not ready for use w/ mainnet Ethereum dapps, but getting closer.
 - Optimistic Rollups
 - [Fuel Labs](https://fuel.sh/)
 - [Overview of beta / testnet](https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3)
+
+### Aztec 2.0
+- ZK Rollups w/ privacy
+- [Aztec](https://aztec.network/)
+- [Overview of Aztec 2.0](https://medium.com/aztec-protocol/aztec-zkrollup-layer-2-privacy-1978e90ee3b6)
 
 ### Tiramisu
 - Optimistic Rollups
