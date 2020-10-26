@@ -38,7 +38,7 @@ Guide covers the following:
 - Open Source UI
 - Frontend Ethereum APIs
 
-## [Most common UX problems in 2018](http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97) - conflux.network
+## [Most common UX problems in 2018](https://web.archive.org/web/20181115003722/http://discuss.conflux.network/t/list-most-common-ux-problems-2018-with-links-to-other-conflux-discussions/97) - conflux.network
 
 - Key management - recovery
 - Key management - logins into wallets
