@@ -11,6 +11,8 @@ This document outlines solutions and discussions about bridging. Mostly focusing
 
 ## Writings and Discussions
 
+[A general-purpose bridge for Ethereum Layer 2s](https://medium.com/the-ethereum-name-service/a-general-purpose-bridge-for-ethereum-layer-2s-e28810ec1d88) by Nick Johnson
+
 [Trustless Two-Way Bridges With Side Chains By Halting](https://ethresear.ch/t/trustless-two-way-bridges-with-side-chains-by-halting/5728) - very good overview of techniques (and interesting proposal) by @adlerjohn, @matt, @mikerah, and @villanuevawill
 
 [Common Interoperability Approaches](https://github.com/renproject/ren/wiki/Interoperability) - Ren documentation which also covers the common approaches of Atomic Swaps, Native Interoperability, Synthetics, and Multi-sigs
