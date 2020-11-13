@@ -64,7 +64,7 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 
 ### Starkware
 - ZK Rollups
-- [STARKEx](https://starkware.co/product/starkex/)
+- [StarkEx Website](https://starkware.co/product/starkex/)
 - Deployed systems: [DeversiFi](https://www.deversifi.com/)
 
 ### zkSync
@@ -75,7 +75,7 @@ From [5 Strategies to Scale Ethereum](https://medium.com/@jpitts/5-strategies-to
 - Deployed systems: [zkSync Wallet](https://wallet.zksync.io/)
 
 ### SKALE
-- Plasma L2 with an EVM
+- Plasma L2 w/ an EVM
 - [SKALE](https://skalelabs.com/)
 - [Why SKALE?](https://medium.com/skale/why-skale-de649cbf3ab9) - Overview
 - Deployed systems: 
