@@ -1,10 +1,10 @@
-Proposals to Merge Early
+# Proposals to Merge Early
 
 This is to track key posts and threads in this community-wide discussion.
 
 ---
 
-General context:
+## General context:
 
 **Eth Roadmap changes**
 
@@ -18,7 +18,7 @@ General context:
 
 > These designations – eth1 / eth2 – imply a false sequentiality. They imply that eth1 will be deprecated in favor of eth2, that one is being left behind for the other. Instead, the terms actually represent different layers of the stack.
 
-**51% protest against EIP-1559**
+**EIP-1559 objections, 51% protest against EIP-1559**
 
 [Mar 7, 2021 Tweet by Red Panda Mining](https://twitter.com/RedPandaMining/status/1368625214674796550)
 
@@ -38,7 +38,7 @@ General context:
 
 ---
 
-Mar 11, 2021
+## Mar 11, 2021
 
 [Quick merge via fork choice change](https://notes.ethereum.org/@vbuterin/B1mUf6DXO) - Note by Vitalik Buterin
 
@@ -56,7 +56,7 @@ Mar 11, 2021
 
 ---
 
-Mar 12, 2021
+## Mar 12, 2021
 
 [Vitalik escalates ETH 2.0 merge as miners plan a 51% attack](https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/) - blog post by James Baker, Status
 
