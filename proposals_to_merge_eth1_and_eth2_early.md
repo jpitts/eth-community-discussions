@@ -62,7 +62,7 @@ This is to track key posts and threads in this community-wide discussion.
 
 ---
 
-Mar 13, 2021
+## Mar 13, 2021
 
 [When PoW miners think it is a good idea to take a "show of force" approach](https://www.reddit.com/r/ethereum/comments/m3gaga/when_pow_miners_think_it_is_a_good_idea_to_take_a/) - reddit discussion
 
