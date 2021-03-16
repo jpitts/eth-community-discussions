@@ -6,9 +6,9 @@ This is to track key posts and threads in this community-wide discussion.
 
 ## General context
 
-This is buolding up in the greater context of three major discussions.
+The emergence of consensus on an early merge is happening within the greater context of three major discussions: changes to Eth2 Roadmap emerging in Fall 2020, objections to EIP-1559, and environmental concerns about NFTs on Eth1.
 
-### Eth Roadmap changes
+### Eth2 Roadmap changes
 
 [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - EthMagicians post by Vitalik Buterin
 
