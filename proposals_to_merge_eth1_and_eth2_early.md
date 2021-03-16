@@ -65,7 +65,7 @@ This is buolding up in the greater context of three major discussions.
 
 ... 
 
-**Concerns about environmental impact of NFTs / Ethereum PoW**
+### Concerns about environmental impact of NFTs / Ethereum PoW
 
 [Mar 9, 2021 Tweet by Daniel Irizarri](https://twitter.com/Danielirizarri/status/1369297919447334917)
 
