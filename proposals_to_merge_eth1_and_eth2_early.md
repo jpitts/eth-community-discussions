@@ -8,7 +8,7 @@ This is to track key posts and threads in this community-wide discussion.
 
 This is buolding up in the greater context of three major discussions.
 
-**Eth Roadmap changes**
+### Eth Roadmap changes
 
 [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - EthMagicians post by Vitalik Buterin
 
@@ -31,9 +31,9 @@ This is buolding up in the greater context of three major discussions.
 > >
 > > > Vitalik Buterin: Me too
 
-**EIP-1559 objections, 51% protest against EIP-1559**
+### EIP-1559 objections, 51% protest against EIP-1559
 
-Comms from the mining community against EIP-1559:
+**Communications from the mining community against EIP-1559:**
 
 [Jan 19, 2021 Tweet by Bitly / Ethermine](https://twitter.com/etherchain_org/status/1351610555027615744)
 
@@ -47,11 +47,15 @@ Comms from the mining community against EIP-1559:
 
 ...
 
+**Hash-power protest**
+
 [Mar 7, 2021 Tweet by Red Panda Mining](https://twitter.com/RedPandaMining/status/1368625214674796550)
 
 > For educational purposes, let's collectively move our hash to http://ethermine.org April 1st for 51 hours.
 
 ...
+
+**Post-EIP-1559 proposals**
 
 [EIP 3368 - Block Reward Increase /w Decay for next two years"](https://ethereum-magicians.org/t/eip-3368-block-reward-increase-w-decay-for-next-two-years/5550) - EthMagicians discussion
 
