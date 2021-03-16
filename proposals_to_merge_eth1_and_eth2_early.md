@@ -26,10 +26,10 @@ This is buolding up in the greater context of three major discussions.
 > - Having the Merge at the ready provides a fallback for the community should a cartel of miners collude to neutralize the positive effects of EIP 1559
 > - The Merge brings immediate liquidity to POS stakers who have tied up their ETH
 > - The Merge is technically less complex than Data Sharding
-
-> Danny Ryan: I generally agree
-> 
-> > Vitalik Buterin: Me too
+>
+> > Danny Ryan: I generally agree
+> >
+> > > Vitalik Buterin: Me too
 
 **EIP-1559 objections, 51% protest against EIP-1559**
 
