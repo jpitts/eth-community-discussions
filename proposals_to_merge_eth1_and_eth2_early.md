@@ -134,3 +134,13 @@ The emergence of consensus on an early merge is happening within the greater con
 > 2. The risk for 51% attack is real, and Ethereum has a lot of enemies right now. ...
 > 3. Raising the BR to 3 and tapering is still in line with minimum viable issuance policy (MVP). ...
 > 4. ... It is absolutely dangerous to rush a massive security consensus change on the 2nd largest blockchain in the world because of political reasons. ... 
+
+# April and May, 2021 - Rayonism scaling project
+
+Rayonism is a scaling project around the ETH Global Scaling Hackathon happening from Apr 16 - May 14, 2021
+
+[Rayonism Website](https://rayonism.io)
+
+[Rayonism "Meta-Spec"](https://notes.ethereum.org/@protolambda/rayonism)
+
+
